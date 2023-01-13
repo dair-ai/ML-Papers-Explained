@@ -1,4 +1,4 @@
-# ML-Papers-Explained
+# ML Papers Explained
 Explanation to key concepts in ML
 
 ## All Blogs
