@@ -4,6 +4,7 @@ Explanations to key concepts in ML
 
 ## Full Index
 
+- [BERT] (https://www.kaggle.com/code/abhinand05/bert-for-humans-tutorial-baseline)
 - [BART](https://www.kaggle.com/discussions/general/374254)
 - [BEiT](https://www.kaggle.com/discussions/general/371762)
 - [ConvMixer](https://www.kaggle.com/discussions/general/339146)
