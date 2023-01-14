@@ -8,6 +8,7 @@ Explanations to key concepts in ML
 - [BEiT](https://www.kaggle.com/discussions/general/371762)
 - [ConvMixer](https://www.kaggle.com/discussions/general/339146)
 - [DiT](https://www.kaggle.com/discussions/general/369149)
+- [DistilBERT](https://dair.ai/posts/TL;DR_DistillBERT/)
 - [Donut](https://www.kaggle.com/discussions/general/374249)
 - [Fast RCNN](https://www.kaggle.com/discussions/general/342959)
 - [Faster RCNN](https://www.kaggle.com/discussions/general/342969)
@@ -35,6 +36,7 @@ Explanations to key concepts in ML
 - [Faster RCNN](https://www.kaggle.com/discussions/general/342969)
 
 ## Transformers
+- [DistilBERT](https://dair.ai/posts/TL;DR_DistillBERT/)
 - [MobileBERT](https://dair.ai/posts/Summary-MobileBERT/)
 - [TinyBERT](https://dair.ai/posts/TinyBERT-Size_does_matter,_but_how_you_train_it_can_be_more_important/)
 - [Transformer](https://dair.ai/posts/attention-is-all-you-need/)
