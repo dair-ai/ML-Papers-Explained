@@ -23,6 +23,7 @@ Explanations to key concepts in ML
 - [Swin Transformer](https://www.kaggle.com/discussions/general/374258)
 - [TableNet](https://www.kaggle.com/discussions/general/338315)
 - [Vision Transformer](https://www.kaggle.com/discussions/general/338841)
+- [XLNet](https://dair.ai/posts/XLNet_outperforms_BERT_on_several_NLP_Tasks/)
 
 ## By Category
 
@@ -33,6 +34,7 @@ Explanations to key concepts in ML
 
 ## Transformers
 - [MobileBERT](https://dair.ai/posts/Summary-MobileBERT/)
+- [XLNet](https://dair.ai/posts/XLNet_outperforms_BERT_on_several_NLP_Tasks/)
 
 ### Layout Transformers
 - [Layout LM](https://www.kaggle.com/discussions/general/335699)
