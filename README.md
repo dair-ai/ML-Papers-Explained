@@ -18,6 +18,7 @@ Explanations to key concepts in ML
 - [Layout LM v3](https://www.kaggle.com/discussions/general/377655)
 - [LiLT](https://www.kaggle.com/discussions/general/376900)
 - [Masked Autoencoder](https://www.kaggle.com/discussions/general/339141)
+- [MobileBERT](https://dair.ai/posts/Summary-MobileBERT/)
 - [RCNN](https://www.kaggle.com/discussions/general/342956)
 - [Swin Transformer](https://www.kaggle.com/discussions/general/374258)
 - [TableNet](https://www.kaggle.com/discussions/general/338315)
@@ -29,6 +30,9 @@ Explanations to key concepts in ML
 - [RCNN](https://www.kaggle.com/discussions/general/342956)
 - [Fast RCNN](https://www.kaggle.com/discussions/general/342959)
 - [Faster RCNN](https://www.kaggle.com/discussions/general/342969)
+
+## Transformers
+- [MobileBERT](https://dair.ai/posts/Summary-MobileBERT/)
 
 ### Layout Transformers
 - [Layout LM](https://www.kaggle.com/discussions/general/335699)
