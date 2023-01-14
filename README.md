@@ -21,6 +21,7 @@ Explanations to key concepts in ML
 - [Masked Autoencoder](https://www.kaggle.com/discussions/general/339141)
 - [MobileBERT](https://dair.ai/posts/Summary-MobileBERT/)
 - [RCNN](https://www.kaggle.com/discussions/general/342956)
+- [SentenceBERT](https://dair.ai/posts/TLDR_SentenceBERT/)
 - [Swin Transformer](https://www.kaggle.com/discussions/general/374258)
 - [TableNet](https://www.kaggle.com/discussions/general/338315)
 - [TinyBERT](https://dair.ai/posts/TinyBERT-Size_does_matter,_but_how_you_train_it_can_be_more_important/)
@@ -38,6 +39,7 @@ Explanations to key concepts in ML
 ## Transformers
 - [DistilBERT](https://dair.ai/posts/TL;DR_DistillBERT/)
 - [MobileBERT](https://dair.ai/posts/Summary-MobileBERT/)
+- [SentenceBERT](https://dair.ai/posts/TLDR_SentenceBERT/)
 - [TinyBERT](https://dair.ai/posts/TinyBERT-Size_does_matter,_but_how_you_train_it_can_be_more_important/)
 - [Transformer](https://dair.ai/posts/attention-is-all-you-need/)
 - [XLNet](https://dair.ai/posts/XLNet_outperforms_BERT_on_several_NLP_Tasks/)
