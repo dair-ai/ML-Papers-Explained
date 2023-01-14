@@ -23,6 +23,7 @@ Explanations to key concepts in ML
 - [Swin Transformer](https://www.kaggle.com/discussions/general/374258)
 - [TableNet](https://www.kaggle.com/discussions/general/338315)
 - [TinyBERT](https://dair.ai/posts/TinyBERT-Size_does_matter,_but_how_you_train_it_can_be_more_important/)
+- [Transformer](https://dair.ai/posts/attention-is-all-you-need/)
 - [Vision Transformer](https://www.kaggle.com/discussions/general/338841)
 - [XLNet](https://dair.ai/posts/XLNet_outperforms_BERT_on_several_NLP_Tasks/)
 
@@ -36,6 +37,7 @@ Explanations to key concepts in ML
 ## Transformers
 - [MobileBERT](https://dair.ai/posts/Summary-MobileBERT/)
 - [TinyBERT](https://dair.ai/posts/TinyBERT-Size_does_matter,_but_how_you_train_it_can_be_more_important/)
+- [Transformer](https://dair.ai/posts/attention-is-all-you-need/)
 - [XLNet](https://dair.ai/posts/XLNet_outperforms_BERT_on_several_NLP_Tasks/)
 
 ### Layout Transformers
