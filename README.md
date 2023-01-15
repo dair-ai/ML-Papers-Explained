@@ -4,9 +4,9 @@ Explanations to key concepts in ML
 
 ## Full Index
 
-- [BERT](https://www.kaggle.com/code/abhinand05/bert-for-humans-tutorial-baseline)
 - [BART](https://www.kaggle.com/discussions/general/374254)
 - [BEiT](https://www.kaggle.com/discussions/general/371762)
+- [BERT](https://www.kaggle.com/code/abhinand05/bert-for-humans-tutorial-baseline)
 - [ConvMixer](https://www.kaggle.com/discussions/general/339146)
 - [DistilBERT](https://dair.ai/posts/TL;DR_DistillBERT/)
 - [DiT](https://www.kaggle.com/discussions/general/369149)
@@ -38,6 +38,7 @@ Explanations to key concepts in ML
 - [Faster RCNN](https://www.kaggle.com/discussions/general/342969)
 
 ## Transformers
+- [BERT](https://www.kaggle.com/code/abhinand05/bert-for-humans-tutorial-baseline)
 - [DistilBERT](https://dair.ai/posts/TL;DR_DistillBERT/)
 - [MobileBERT](https://dair.ai/posts/Summary-MobileBERT/)
 - [SentenceBERT](https://dair.ai/posts/TLDR_SentenceBERT/)
@@ -57,10 +58,11 @@ Explanations to key concepts in ML
 - [Donut](https://www.kaggle.com/discussions/general/374249)
 
 ### Vision Transformers
-- [Vision Transformer](https://www.kaggle.com/discussions/general/338841)
-- [Masked Autoencoder](https://www.kaggle.com/discussions/general/339141)
 - [BEiT](https://www.kaggle.com/discussions/general/371762)
+- [Masked Autoencoder](https://www.kaggle.com/discussions/general/339141)
 - [Swin Transformer](https://www.kaggle.com/discussions/general/374258)
+- [Vision Transformer](https://www.kaggle.com/discussions/general/338841)
+
 
 ## Single Stage Object Detectors
 - [Feature Pyramid Network](https://www.kaggle.com/discussions/general/371783)
