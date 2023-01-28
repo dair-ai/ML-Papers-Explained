@@ -69,7 +69,7 @@ Explanations to key concepts in ML
 - [Focal Loss (RetinaNet)](https://www.kaggle.com/discussions/general/371924)
 
 ---
-Reach out to [RitVik](https://twitter.com/RitvikRastogi19) or [Elvis](https://twitter.com/omarsar0) if you have any questions.
+Reach out to [Ritvik](https://twitter.com/RitvikRastogi19) or [Elvis](https://twitter.com/omarsar0) if you have any questions.
 
 If you are interested to contribute, feel free to open a PR.
 
