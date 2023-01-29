@@ -29,6 +29,7 @@ Explanations to key concepts in ML
 - [Transformer](https://dair.ai/posts/attention-is-all-you-need/)
 - [Vision Transformer](https://www.kaggle.com/discussions/general/338841)
 - [XLNet](https://dair.ai/posts/XLNet_outperforms_BERT_on_several_NLP_Tasks/)
+- [ERNIE-Layout](https://www.kaggle.com/discussions/getting-started/382022)
 
 ## By Category
 
@@ -51,6 +52,7 @@ Explanations to key concepts in ML
 - [Layout LM v2](https://www.kaggle.com/discussions/general/335865)
 - [Layout LM v3](https://www.kaggle.com/discussions/general/377655)
 - [LiLT](https://www.kaggle.com/discussions/general/376900)
+- [ERNIE-Layout](https://www.kaggle.com/discussions/getting-started/382022)
 
 ### Document Information Processing
 - [TableNet](https://www.kaggle.com/discussions/general/338315)
