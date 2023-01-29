@@ -11,6 +11,7 @@ Explanations to key concepts in ML
 - [DistilBERT](https://dair.ai/posts/TL;DR_DistillBERT/)
 - [DiT](https://www.kaggle.com/discussions/general/369149)
 - [Donut](https://www.kaggle.com/discussions/general/374249)
+- [ERNIE-Layout](https://www.kaggle.com/discussions/getting-started/382022)
 - [Fast RCNN](https://www.kaggle.com/discussions/general/342959)
 - [Faster RCNN](https://www.kaggle.com/discussions/general/342969)
 - [Feature Pyramid Network](https://www.kaggle.com/discussions/general/371783)
@@ -47,6 +48,7 @@ Explanations to key concepts in ML
 - [XLNet](https://dair.ai/posts/XLNet_outperforms_BERT_on_several_NLP_Tasks/)
 
 ### Layout Transformers
+- [ERNIE-Layout](https://www.kaggle.com/discussions/getting-started/382022)
 - [Layout LM](https://www.kaggle.com/discussions/general/335699)
 - [Layout LM v2](https://www.kaggle.com/discussions/general/335865)
 - [Layout LM v3](https://www.kaggle.com/discussions/general/377655)
