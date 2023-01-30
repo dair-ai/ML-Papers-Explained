@@ -66,7 +66,7 @@ Explanations to key concepts in ML
 - [Vision Transformer](https://www.kaggle.com/discussions/general/338841)
 
 
-## Single Stage Object Detectors
+### Single Stage Object Detectors
 - [Feature Pyramid Network](https://www.kaggle.com/discussions/general/371783)
 - [Focal Loss (RetinaNet)](https://www.kaggle.com/discussions/general/371924)
 
