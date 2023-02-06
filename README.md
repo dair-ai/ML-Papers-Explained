@@ -21,11 +21,11 @@ Explanations to key concepts in ML
 - [Focal Loss (RetinaNet)](https://www.kaggle.com/discussions/general/371924)
 - [InceptionNet](https://medium.com/@ritvik19/papers-explained-review-01-convolutional-neural-networks-78aeff61dcb3#d7b3)
 - [InceptionNetV2 and InceptionNetV3](https://medium.com/@ritvik19/papers-explained-review-01-convolutional-neural-networks-78aeff61dcb3#d7b3)
-- [Layout LM](https://www.kaggle.com/discussions/general/335699)
-- [Layout LM v2](https://www.kaggle.com/discussions/general/335865)
-- [Layout LM v3](https://www.kaggle.com/discussions/general/377655)
+- [Layout LM](https://ritvik19.medium.com/papers-explained-10-layout-lm-32ec4bad6406)
+- [Layout LM v2](https://ritvik19.medium.com/papers-explained-11-layout-lm-v2-9531a983e659)
+- [Layout LM v3](https://ritvik19.medium.com/papers-explained-13-layout-lm-v3-3b54910173aa)
 - [Lenet](https://medium.com/@ritvik19/papers-explained-review-01-convolutional-neural-networks-78aeff61dcb3#4f26)
-- [LiLT](https://www.kaggle.com/discussions/general/376900)
+- [LiLT](https://ritvik19.medium.com/papers-explained-12-lilt-701057ec6d9e)
 - [Masked Autoencoder](https://www.kaggle.com/discussions/general/339141)
 - [MobileBERT](https://dair.ai/posts/Summary-MobileBERT/)
 - [MobileNetV1](https://medium.com/@ritvik19/papers-explained-review-01-convolutional-neural-networks-78aeff61dcb3#3cb5)
@@ -76,10 +76,10 @@ Explanations to key concepts in ML
 
 ### Layout Transformers
 - [ERNIE-Layout](https://www.kaggle.com/discussions/getting-started/382022)
-- [Layout LM](https://www.kaggle.com/discussions/general/335699)
-- [Layout LM v2](https://www.kaggle.com/discussions/general/335865)
-- [Layout LM v3](https://www.kaggle.com/discussions/general/377655)
-- [LiLT](https://www.kaggle.com/discussions/general/376900)
+- [Layout LM](https://ritvik19.medium.com/papers-explained-10-layout-lm-32ec4bad6406)
+- [Layout LM v2](https://ritvik19.medium.com/papers-explained-11-layout-lm-v2-9531a983e659)
+- [Layout LM v3](https://ritvik19.medium.com/papers-explained-13-layout-lm-v3-3b54910173aa)
+- [LiLT](https://ritvik19.medium.com/papers-explained-12-lilt-701057ec6d9e)
 
 ### Document Information Processing
 - [TableNet](https://www.kaggle.com/discussions/general/338315)
