@@ -15,8 +15,8 @@ Explanations to key concepts in ML
 - [Donut](https://www.kaggle.com/discussions/general/374249)
 - [EfficientNet](https://medium.com/@ritvik19/papers-explained-review-01-convolutional-neural-networks-78aeff61dcb3#560a)
 - [ERNIE-Layout](https://www.kaggle.com/discussions/getting-started/382022)
-- [Fast RCNN](https://www.kaggle.com/discussions/general/342959)
-- [Faster RCNN](https://www.kaggle.com/discussions/general/342969)
+- [Fast RCNN](https://ritvik19.medium.com/papers-explained-15-fast-rcnn-28c1792dcee0)
+- [Faster RCNN](https://ritvik19.medium.com/papers-explained-16-faster-rcnn-a7b874ffacd9)
 - [Feature Pyramid Network](https://www.kaggle.com/discussions/general/371783)
 - [Focal Loss (RetinaNet)](https://www.kaggle.com/discussions/general/371924)
 - [InceptionNet](https://medium.com/@ritvik19/papers-explained-review-01-convolutional-neural-networks-78aeff61dcb3#d7b3)
@@ -26,11 +26,12 @@ Explanations to key concepts in ML
 - [Layout LM v3](https://ritvik19.medium.com/papers-explained-13-layout-lm-v3-3b54910173aa)
 - [Lenet](https://medium.com/@ritvik19/papers-explained-review-01-convolutional-neural-networks-78aeff61dcb3#4f26)
 - [LiLT](https://ritvik19.medium.com/papers-explained-12-lilt-701057ec6d9e)
+- [Mask RCNN](https://ritvik19.medium.com/papers-explained-17-mask-rcnn-82c64bea5261)
 - [Masked Autoencoder](https://www.kaggle.com/discussions/general/339141)
 - [MobileBERT](https://dair.ai/posts/Summary-MobileBERT/)
 - [MobileNetV1](https://medium.com/@ritvik19/papers-explained-review-01-convolutional-neural-networks-78aeff61dcb3#3cb5)
 - [MobileNetV2](https://medium.com/@ritvik19/papers-explained-review-01-convolutional-neural-networks-78aeff61dcb3#4440)
-- [RCNN](https://www.kaggle.com/discussions/general/342956)
+- [RCNN](https://ritvik19.medium.com/papers-explained-14-rcnn-ede4db2de0ab)
 - [ResNet](https://medium.com/@ritvik19/papers-explained-review-01-convolutional-neural-networks-78aeff61dcb3#f761)
 - [ResNext](https://medium.com/@ritvik19/papers-explained-review-01-convolutional-neural-networks-78aeff61dcb3#bc70)
 - [SentenceBERT](https://dair.ai/posts/TLDR_SentenceBERT/)
@@ -60,9 +61,10 @@ Explanations to key concepts in ML
 - [EfficientNet](https://medium.com/@ritvik19/papers-explained-review-01-convolutional-neural-networks-78aeff61dcb3#560a)
 
 ### RCNNs
-- [RCNN](https://www.kaggle.com/discussions/general/342956)
-- [Fast RCNN](https://www.kaggle.com/discussions/general/342959)
-- [Faster RCNN](https://www.kaggle.com/discussions/general/342969)
+- [RCNN](https://ritvik19.medium.com/papers-explained-14-rcnn-ede4db2de0ab)
+- [Fast RCNN](https://ritvik19.medium.com/papers-explained-15-fast-rcnn-28c1792dcee0)
+- [Faster RCNN](https://ritvik19.medium.com/papers-explained-16-faster-rcnn-a7b874ffacd9)
+- [Mask RCNN](https://ritvik19.medium.com/papers-explained-17-mask-rcnn-82c64bea5261)
 
 ### Transformers
 - [BART](https://ritvik19.medium.com/papers-explained-09-bart-7f56138175bd)
