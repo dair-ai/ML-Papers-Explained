@@ -14,7 +14,7 @@ Explanations to key concepts in ML
 - [DiT](https://ritvik19.medium.com/papers-explained-19-dit-b6d6eccd8c4e)
 - [Donut](https://ritvik19.medium.com/papers-explained-20-donut-cb1523bf3281)
 - [EfficientNet](https://medium.com/@ritvik19/papers-explained-review-01-convolutional-neural-networks-78aeff61dcb3#560a)
-- [ERNIE-Layout](https://www.kaggle.com/discussions/getting-started/382022)
+- [ERNIE-Layout](https://ritvik19.medium.com/papers-explained-24-ernie-layout-47a5a38e321b)
 - [Fast RCNN](https://ritvik19.medium.com/papers-explained-15-fast-rcnn-28c1792dcee0)
 - [Faster RCNN](https://ritvik19.medium.com/papers-explained-16-faster-rcnn-a7b874ffacd9)
 - [Feature Pyramid Network](https://ritvik19.medium.com/papers-explained-21-feature-pyramid-network-6baebcb7e4b8)
@@ -35,6 +35,7 @@ Explanations to key concepts in ML
 - [ResNet](https://medium.com/@ritvik19/papers-explained-review-01-convolutional-neural-networks-78aeff61dcb3#f761)
 - [ResNext](https://medium.com/@ritvik19/papers-explained-review-01-convolutional-neural-networks-78aeff61dcb3#bc70)
 - [SentenceBERT](https://dair.ai/posts/TLDR_SentenceBERT/)
+- [StructuralLM](https://ritvik19.medium.com/papers-explained-23-structural-lm-36e9df91e7c1)
 - [Swin Transformer](https://www.kaggle.com/discussions/general/374258)
 - [TableNet](https://ritvik19.medium.com/papers-explained-18-tablenet-3d4c62269bb3)
 - [TinyBERT](https://dair.ai/posts/TinyBERT-Size_does_matter,_but_how_you_train_it_can_be_more_important/)
@@ -77,11 +78,12 @@ Explanations to key concepts in ML
 - [XLNet](https://dair.ai/posts/XLNet_outperforms_BERT_on_several_NLP_Tasks/)
 
 ### Layout Transformers
-- [ERNIE-Layout](https://www.kaggle.com/discussions/getting-started/382022)
+- [ERNIE-Layout](https://ritvik19.medium.com/papers-explained-24-ernie-layout-47a5a38e321b)
 - [Layout LM](https://ritvik19.medium.com/papers-explained-10-layout-lm-32ec4bad6406)
 - [Layout LM v2](https://ritvik19.medium.com/papers-explained-11-layout-lm-v2-9531a983e659)
 - [Layout LM v3](https://ritvik19.medium.com/papers-explained-13-layout-lm-v3-3b54910173aa)
 - [LiLT](https://ritvik19.medium.com/papers-explained-12-lilt-701057ec6d9e)
+- [StructuralLM](https://ritvik19.medium.com/papers-explained-23-structural-lm-36e9df91e7c1)
 
 ### Document Information Processing
 - [TableNet](https://ritvik19.medium.com/papers-explained-18-tablenet-3d4c62269bb3)
