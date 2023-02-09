@@ -6,9 +6,9 @@ Explanations to key concepts in ML
 
 - [AlexNet](https://medium.com/@ritvik19/papers-explained-review-01-convolutional-neural-networks-78aeff61dcb3#f7c6)
 - [BART](https://ritvik19.medium.com/papers-explained-09-bart-7f56138175bd)
-- [BEiT](https://www.kaggle.com/discussions/general/371762)
+- [BEiT](https://ritvik19.medium.com/papers-explained-27-beit-b8c225496c01)
 - [BERT](https://www.kaggle.com/code/abhinand05/bert-for-humans-tutorial-baseline)
-- [ConvMixer](https://www.kaggle.com/discussions/general/339146)
+- [ConvMixer](https://ritvik19.medium.com/papers-explained-29-convmixer-f073f0356526)
 - [DenseNet](https://medium.com/@ritvik19/papers-explained-review-01-convolutional-neural-networks-78aeff61dcb3#bc9c)
 - [DistilBERT](https://dair.ai/posts/TL;DR_DistillBERT/)
 - [DiT](https://ritvik19.medium.com/papers-explained-19-dit-b6d6eccd8c4e)
@@ -27,7 +27,7 @@ Explanations to key concepts in ML
 - [Lenet](https://medium.com/@ritvik19/papers-explained-review-01-convolutional-neural-networks-78aeff61dcb3#4f26)
 - [LiLT](https://ritvik19.medium.com/papers-explained-12-lilt-701057ec6d9e)
 - [Mask RCNN](https://ritvik19.medium.com/papers-explained-17-mask-rcnn-82c64bea5261)
-- [Masked Autoencoder](https://www.kaggle.com/discussions/general/339141)
+- [Masked Autoencoder](https://ritvik19.medium.com/papers-explained-28-masked-autoencoder-38cb0dbed4af)
 - [MobileBERT](https://dair.ai/posts/Summary-MobileBERT/)
 - [MobileNetV1](https://medium.com/@ritvik19/papers-explained-review-01-convolutional-neural-networks-78aeff61dcb3#3cb5)
 - [MobileNetV2](https://medium.com/@ritvik19/papers-explained-review-01-convolutional-neural-networks-78aeff61dcb3#4440)
@@ -36,12 +36,12 @@ Explanations to key concepts in ML
 - [ResNext](https://medium.com/@ritvik19/papers-explained-review-01-convolutional-neural-networks-78aeff61dcb3#bc70)
 - [SentenceBERT](https://dair.ai/posts/TLDR_SentenceBERT/)
 - [StructuralLM](https://ritvik19.medium.com/papers-explained-23-structural-lm-36e9df91e7c1)
-- [Swin Transformer](https://www.kaggle.com/discussions/general/374258)
+- [Swin Transformer](https://ritvik19.medium.com/papers-explained-26-swin-transformer-39cf88b00e3e)
 - [TableNet](https://ritvik19.medium.com/papers-explained-18-tablenet-3d4c62269bb3)
 - [TinyBERT](https://dair.ai/posts/TinyBERT-Size_does_matter,_but_how_you_train_it_can_be_more_important/)
 - [Transformer](https://dair.ai/posts/attention-is-all-you-need/)
 - [VGG](https://medium.com/@ritvik19/papers-explained-review-01-convolutional-neural-networks-78aeff61dcb3#c122)
-- [Vision Transformer](https://www.kaggle.com/discussions/general/338841)
+- [Vision Transformer](https://ritvik19.medium.com/papers-explained-25-vision-transformers-e286ee8bc06b)
 - [Xception](https://medium.com/@ritvik19/papers-explained-review-01-convolutional-neural-networks-78aeff61dcb3#4a2b)
 - [XLNet](https://dair.ai/posts/XLNet_outperforms_BERT_on_several_NLP_Tasks/)
 
@@ -91,10 +91,10 @@ Explanations to key concepts in ML
 - [Donut](https://ritvik19.medium.com/papers-explained-20-donut-cb1523bf3281)
 
 ### Vision Transformers
-- [BEiT](https://www.kaggle.com/discussions/general/371762)
-- [Masked Autoencoder](https://www.kaggle.com/discussions/general/339141)
-- [Swin Transformer](https://www.kaggle.com/discussions/general/374258)
-- [Vision Transformer](https://www.kaggle.com/discussions/general/338841)
+- [BEiT](https://ritvik19.medium.com/papers-explained-27-beit-b8c225496c01)
+- [Masked Autoencoder](https://ritvik19.medium.com/papers-explained-28-masked-autoencoder-38cb0dbed4af)
+- [Swin Transformer](https://ritvik19.medium.com/papers-explained-26-swin-transformer-39cf88b00e3e)
+- [Vision Transformer](https://ritvik19.medium.com/papers-explained-25-vision-transformers-e286ee8bc06b)
 
 
 ### Single Stage Object Detectors
