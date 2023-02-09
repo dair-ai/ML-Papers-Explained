@@ -12,6 +12,7 @@ Explanations to key concepts in ML
 - [DenseNet](https://medium.com/@ritvik19/papers-explained-review-01-convolutional-neural-networks-78aeff61dcb3#bc9c)
 - [DistilBERT](https://dair.ai/posts/TL;DR_DistillBERT/)
 - [DiT](https://ritvik19.medium.com/papers-explained-19-dit-b6d6eccd8c4e)
+- [DocFormer](https://ritvik19.medium.com/papers-explained-30-docformer-228ce27182a0)
 - [Donut](https://ritvik19.medium.com/papers-explained-20-donut-cb1523bf3281)
 - [EfficientNet](https://medium.com/@ritvik19/papers-explained-review-01-convolutional-neural-networks-78aeff61dcb3#560a)
 - [ERNIE-Layout](https://ritvik19.medium.com/papers-explained-24-ernie-layout-47a5a38e321b)
@@ -78,6 +79,7 @@ Explanations to key concepts in ML
 - [XLNet](https://dair.ai/posts/XLNet_outperforms_BERT_on_several_NLP_Tasks/)
 
 ### Layout Transformers
+- [DocFormer](https://ritvik19.medium.com/papers-explained-30-docformer-228ce27182a0)
 - [ERNIE-Layout](https://ritvik19.medium.com/papers-explained-24-ernie-layout-47a5a38e321b)
 - [Layout LM](https://ritvik19.medium.com/papers-explained-10-layout-lm-32ec4bad6406)
 - [Layout LM v2](https://ritvik19.medium.com/papers-explained-11-layout-lm-v2-9531a983e659)
