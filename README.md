@@ -36,6 +36,7 @@ Explanations to key concepts in ML
 - [ResNet](https://medium.com/@ritvik19/papers-explained-review-01-convolutional-neural-networks-78aeff61dcb3#f761)
 - [ResNext](https://medium.com/@ritvik19/papers-explained-review-01-convolutional-neural-networks-78aeff61dcb3#bc70)
 - [SentenceBERT](https://dair.ai/posts/TLDR_SentenceBERT/)
+- [Single Shot MultiBox Detector (SSD)](https://ritvik19.medium.com/papers-explained-31-single-shot-multibox-detector-14b0aa2f5a97)
 - [StructuralLM](https://ritvik19.medium.com/papers-explained-23-structural-lm-36e9df91e7c1)
 - [Swin Transformer](https://ritvik19.medium.com/papers-explained-26-swin-transformer-39cf88b00e3e)
 - [TableNet](https://ritvik19.medium.com/papers-explained-18-tablenet-3d4c62269bb3)
@@ -102,6 +103,7 @@ Explanations to key concepts in ML
 ### Single Stage Object Detectors
 - [Feature Pyramid Network](https://ritvik19.medium.com/papers-explained-21-feature-pyramid-network-6baebcb7e4b8)
 - [Focal Loss (RetinaNet)](https://ritvik19.medium.com/papers-explained-22-focal-loss-for-dense-object-detection-retinanet-733b70ce0cb1)
+- [Single Shot MultiBox Detector (SSD)](https://ritvik19.medium.com/papers-explained-31-single-shot-multibox-detector-14b0aa2f5a97)
 
 ## Literature Reviewed
 - [Convolutional Neural Networks](https://ritvik19.medium.com/papers-explained-review-01-convolutional-neural-networks-78aeff61dcb3)
