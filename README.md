@@ -33,6 +33,7 @@ Explanations to key concepts in ML
 - [MobileBERT](https://dair.ai/posts/Summary-MobileBERT/)
 - [MobileNetV1](https://medium.com/@ritvik19/papers-explained-review-01-convolutional-neural-networks-78aeff61dcb3#3cb5)
 - [MobileNetV2](https://medium.com/@ritvik19/papers-explained-review-01-convolutional-neural-networks-78aeff61dcb3#4440)
+- [MobileNetV3](https://ritvik19.medium.com/papers-explained-review-01-convolutional-neural-networks-78aeff61dcb3#8eb6)
 - [RCNN](https://ritvik19.medium.com/papers-explained-14-rcnn-ede4db2de0ab)
 - [ResNet](https://medium.com/@ritvik19/papers-explained-review-01-convolutional-neural-networks-78aeff61dcb3#f761)
 - [ResNext](https://medium.com/@ritvik19/papers-explained-review-01-convolutional-neural-networks-78aeff61dcb3#bc70)
@@ -63,6 +64,7 @@ Explanations to key concepts in ML
 - [DenseNet](https://medium.com/@ritvik19/papers-explained-review-01-convolutional-neural-networks-78aeff61dcb3#bc9c)
 - [MobileNetV1](https://medium.com/@ritvik19/papers-explained-review-01-convolutional-neural-networks-78aeff61dcb3#3cb5)
 - [MobileNetV2](https://medium.com/@ritvik19/papers-explained-review-01-convolutional-neural-networks-78aeff61dcb3#4440)
+- [MobileNetV3](https://ritvik19.medium.com/papers-explained-review-01-convolutional-neural-networks-78aeff61dcb3#8eb6)
 - [EfficientNet](https://medium.com/@ritvik19/papers-explained-review-01-convolutional-neural-networks-78aeff61dcb3#560a)
 
 ### Region-based Convolutional Neural Networks
