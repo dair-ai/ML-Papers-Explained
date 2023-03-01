@@ -8,17 +8,21 @@ Explanations to key concepts in ML
 - [BART](https://medium.com/dair-ai/papers-explained-09-bart-7f56138175bd)
 - [BEiT](https://medium.com/dair-ai/papers-explained-27-beit-b8c225496c01)
 - [BERT](https://www.kaggle.com/code/abhinand05/bert-for-humans-tutorial-baseline)
+- [ColD Fusion](https://medium.com/dair-ai/papers-explained-32-cold-fusion-452f33101a91)
 - [ConvMixer](https://medium.com/dair-ai/papers-explained-29-convmixer-f073f0356526)
+- [Deep and Cross Network](https://medium.com/dair-ai/papers-explained-review-04-tabular-deep-learning-776db04f965b#0017)
 - [DenseNet](https://medium.com/dair-ai/papers-explained-review-01-convolutional-neural-networks-78aeff61dcb3#bc9c)
 - [DistilBERT](https://dair.ai/posts/TL;DR_DistillBERT/)
 - [DiT](https://medium.com/dair-ai/papers-explained-19-dit-b6d6eccd8c4e)
 - [DocFormer](https://medium.com/dair-ai/papers-explained-30-docformer-228ce27182a0)
 - [Donut](https://medium.com/dair-ai/papers-explained-20-donut-cb1523bf3281)
 - [EfficientNet](https://medium.com/dair-ai/papers-explained-review-01-convolutional-neural-networks-78aeff61dcb3#560a)
+- [Entity Embeddings](https://medium.com/dair-ai/papers-explained-review-04-tabular-deep-learning-776db04f965b#932e)
 - [ERNIE-Layout](https://medium.com/dair-ai/papers-explained-24-ernie-layout-47a5a38e321b)
 - [Fast RCNN](https://medium.com/dair-ai/papers-explained-15-fast-rcnn-28c1792dcee0)
 - [Faster RCNN](https://medium.com/dair-ai/papers-explained-16-faster-rcnn-a7b874ffacd9)
 - [Feature Pyramid Network](https://medium.com/dair-ai/papers-explained-21-feature-pyramid-network-6baebcb7e4b8)
+- [Feature Tokenizer Transformer](https://medium.com/dair-ai/papers-explained-review-04-tabular-deep-learning-776db04f965b#1ab8)
 - [Focal Loss (RetinaNet)](https://medium.com/dair-ai/papers-explained-22-focal-loss-for-dense-object-detection-retinanet-733b70ce0cb1)
 - [InceptionNet](https://medium.com/dair-ai/papers-explained-review-01-convolutional-neural-networks-78aeff61dcb3#d7b3)
 - [InceptionNetV2 and InceptionNetV3](https://medium.com/dair-ai/papers-explained-review-01-convolutional-neural-networks-78aeff61dcb3#d7b3)
@@ -42,10 +46,13 @@ Explanations to key concepts in ML
 - [StructuralLM](https://medium.com/dair-ai/papers-explained-23-structural-lm-36e9df91e7c1)
 - [Swin Transformer](https://medium.com/dair-ai/papers-explained-26-swin-transformer-39cf88b00e3e)
 - [TableNet](https://medium.com/dair-ai/papers-explained-18-tablenet-3d4c62269bb3)
+- [TabTransformer](https://medium.com/dair-ai/papers-explained-review-04-tabular-deep-learning-776db04f965b#48c4)
+- [Tabular ResNet](https://medium.com/dair-ai/papers-explained-review-04-tabular-deep-learning-776db04f965b#46af)
 - [TinyBERT](https://dair.ai/posts/TinyBERT-Size_does_matter,_but_how_you_train_it_can_be_more_important/)
 - [Transformer](https://dair.ai/posts/attention-is-all-you-need/)
 - [VGG](https://medium.com/dair-ai/papers-explained-review-01-convolutional-neural-networks-78aeff61dcb3#c122)
 - [Vision Transformer](https://medium.com/dair-ai/papers-explained-25-vision-transformers-e286ee8bc06b)
+- [Wide and Deep Learning](https://medium.com/dair-ai/papers-explained-review-04-tabular-deep-learning-776db04f965b#bfdc)
 - [Xception](https://medium.com/dair-ai/papers-explained-review-01-convolutional-neural-networks-78aeff61dcb3#4a2b)
 - [XLNet](https://dair.ai/posts/XLNet_outperforms_BERT_on_several_NLP_Tasks/)
 
@@ -109,10 +116,19 @@ Explanations to key concepts in ML
 - [Focal Loss (RetinaNet)](https://medium.com/dair-ai/papers-explained-22-focal-loss-for-dense-object-detection-retinanet-733b70ce0cb1)
 - [Single Shot MultiBox Detector (SSD)](https://medium.com/dair-ai/papers-explained-31-single-shot-multibox-detector-14b0aa2f5a97)
 
+## Tabular Deep Learning
+- [Entity Embeddings](https://medium.com/dair-ai/papers-explained-review-04-tabular-deep-learning-776db04f965b#932e)
+- [Tabular ResNet](https://medium.com/dair-ai/papers-explained-review-04-tabular-deep-learning-776db04f965b#46af)
+- [Wide and Deep Learning](https://medium.com/dair-ai/papers-explained-review-04-tabular-deep-learning-776db04f965b#bfdc)
+- [Deep and Cross Network](https://medium.com/dair-ai/papers-explained-review-04-tabular-deep-learning-776db04f965b#0017)
+- [TabTransformer](https://medium.com/dair-ai/papers-explained-review-04-tabular-deep-learning-776db04f965b#48c4)
+- [Feature Tokenizer Transformer](https://medium.com/dair-ai/papers-explained-review-04-tabular-deep-learning-776db04f965b#1ab8)
+
 ## Literature Reviewed
 - [Convolutional Neural Networks](https://medium.com/dair-ai/papers-explained-review-01-convolutional-neural-networks-78aeff61dcb3)
 - [Layout Transformers](https://medium.com/dair-ai/papers-explained-review-02-layout-transformers-b2d165c94ad5)
 - [Region-based Convolutional Neural Networks](https://medium.com/dair-ai/papers-explained-review-03-rcnns-42c0a3974493)
+- [Tabular Deep Learning](https://medium.com/dair-ai/papers-explained-review-04-tabular-deep-learning-776db04f965b)
 
 ---
 Reach out to [Ritvik](https://twitter.com/RitvikRastogi19) or [Elvis](https://twitter.com/omarsar0) if you have any questions.
