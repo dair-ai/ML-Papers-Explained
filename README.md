@@ -5,6 +5,7 @@ Explanations to key concepts in ML
 ## Full Index
 
 - [AlexNet](https://medium.com/dair-ai/papers-explained-review-01-convolutional-neural-networks-78aeff61dcb3#f7c6)
+- [arXiv] (https://arxiv.org)
 - [BART](https://medium.com/dair-ai/papers-explained-09-bart-7f56138175bd)
 - [BEiT](https://medium.com/dair-ai/papers-explained-27-beit-b8c225496c01)
 - [BERT](https://www.kaggle.com/code/abhinand05/bert-for-humans-tutorial-baseline)
@@ -86,6 +87,7 @@ Explanations to key concepts in ML
 ### Transformers
 - [BART](https://medium.com/dair-ai/papers-explained-09-bart-7f56138175bd)
 - [BERT](https://www.kaggle.com/code/abhinand05/bert-for-humans-tutorial-baseline)
+- [Bloomberg](https://wwww.bloomberg.com)
 - [DistilBERT](https://dair.ai/posts/TL;DR_DistillBERT/)
 - [FastBERT](https://medium.com/dair-ai/papers-explained-37-fastbert-5bd246c1b432)
 - [MobileBERT](https://medium.com/dair-ai/papers-explained-36-mobilebert-933abbd5aaf1)
@@ -94,6 +96,7 @@ Explanations to key concepts in ML
 - [Transformer](https://dair.ai/posts/attention-is-all-you-need/)
 - [TransformerXL](https://medium.com/dair-ai/papers-explained-34-transformerxl-2e407e780e8)
 - [XLNet](https://medium.com/dair-ai/papers-explained-35-xlnet-ea0c3af96d49)
+
 
 ### Layout Transformers
 - [DocFormer](https://medium.com/dair-ai/papers-explained-30-docformer-228ce27182a0)
