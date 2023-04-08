@@ -7,7 +7,7 @@ Explanations to key concepts in ML
 - [AlexNet](https://medium.com/dair-ai/papers-explained-review-01-convolutional-neural-networks-78aeff61dcb3#f7c6)
 - [BART](https://medium.com/dair-ai/papers-explained-09-bart-7f56138175bd)
 - [BEiT](https://medium.com/dair-ai/papers-explained-27-beit-b8c225496c01)
-- [BERT](https://www.kaggle.com/code/abhinand05/bert-for-humans-tutorial-baseline)
+- [BERT](https://www.kaggle.com/code/abhinand05/bert-for-humans-tutorial-baseline-version-2)
 - [ColD Fusion](https://medium.com/dair-ai/papers-explained-32-cold-fusion-452f33101a91)
 - [ConvMixer](https://medium.com/dair-ai/papers-explained-29-convmixer-f073f0356526)
 - [Deep and Cross Network](https://medium.com/dair-ai/papers-explained-review-04-tabular-deep-learning-776db04f965b#0017)
