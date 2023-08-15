@@ -163,6 +163,14 @@ Explanations to key concepts in ML
 - [Region-based Convolutional Neural Networks](https://medium.com/dair-ai/papers-explained-review-03-rcnns-42c0a3974493)
 - [Tabular Deep Learning](https://medium.com/dair-ai/papers-explained-review-04-tabular-deep-learning-776db04f965b)
 
+## Reading Lists
+- [Language Models](https://ritvik19.medium.com/list/language-models-11b008ddc292)
+- [Layout Transformers](https://ritvik19.medium.com/list/layout-transformers-1ce4f291a9f0)
+- [Object Detection](https://ritvik19.medium.com/list/object-detection-bd9e6e21ca3e)
+- [RCNNs](https://ritvik19.medium.com/list/rcnns-b51467f53dc9)
+- [Vision Models](https://ritvik19.medium.com/list/vision-models-61e6836230f1)
+- [Document Information Processing](https://ritvik19.medium.com/list/document-information-processing-3cd900a34972)
+
 ---
 Reach out to [Ritvik](https://twitter.com/RitvikRastogi19) or [Elvis](https://twitter.com/omarsar0) if you have any questions.
 
