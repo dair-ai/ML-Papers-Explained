@@ -8,6 +8,7 @@ Explanations to key concepts in ML
 - [BART](https://medium.com/dair-ai/papers-explained-09-bart-7f56138175bd)
 - [BEiT](https://medium.com/dair-ai/papers-explained-27-beit-b8c225496c01)
 - [BERT](https://www.kaggle.com/code/abhinand05/bert-for-humans-tutorial-baseline-version-2)
+- [BLOOM](https://medium.com/dair-ai/papers-explained-52-bloom-9654c56cd2)
 - [Chinchilla](https://medium.com/dair-ai/papers-explained-49-chinchilla-a7ad826d945e)
 - [Codex](https://medium.com/dair-ai/papers-explained-45-codex-caca940feb310)
 - [ColD Fusion](https://medium.com/dair-ai/papers-explained-32-cold-fusion-452f33101a91)
@@ -100,6 +101,7 @@ Explanations to key concepts in ML
 ### Transformers
 - [BART](https://medium.com/dair-ai/papers-explained-09-bart-7f56138175bd)
 - [BERT](https://www.kaggle.com/code/abhinand05/bert-for-humans-tutorial-baseline)
+- [BLOOM](https://medium.com/dair-ai/papers-explained-52-bloom-9654c56cd2)
 - [Chinchilla](https://medium.com/dair-ai/papers-explained-49-chinchilla-a7ad826d945e)
 - [Codex](https://medium.com/dair-ai/papers-explained-45-codex-caca940feb310)
 - [DistilBERT](https://dair.ai/posts/TL;DR_DistillBERT/)
