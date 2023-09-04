@@ -32,6 +32,7 @@ Explanations to key concepts in ML
 | [OPT](https://ritvik19.medium.com/papers-explained-51-opt-dacd9406e2bd) | May 2022 | A suite of decoder-only pre-trained transformers with parameter ranges from 125M to 175B. OPT-175B being comparable to GPT-3. |
 | [BLOOM](https://ritvik19.medium.com/papers-explained-52-bloom-9654c56cd2) | November 2022 | A 176B-parameter open-access decoder-only transformer, collaboratively developed by hundreds of researchers, aiming to democratize LLM technology. |
 | [Galactica](https://ritvik19.medium.com/papers-explained-53-galactica-1308dbd318dc) | November 2022 | An LLM trained on scientific data thus specializing in scientific knowledge. |
+| [ChatGPT](https://ritvik19.medium.com/papers-explained-54-chatgpt-78387333268f) | Novemeber 2022 | An interactive model designed to engage in conversations, built on top of GPT 3.5. |
 
 ## Vision Models
 
