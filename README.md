@@ -33,6 +33,7 @@ Explanations to key concepts in ML
 | [BLOOM](https://ritvik19.medium.com/papers-explained-52-bloom-9654c56cd2) | November 2022 | A 176B-parameter open-access decoder-only transformer, collaboratively developed by hundreds of researchers, aiming to democratize LLM technology. |
 | [Galactica](https://ritvik19.medium.com/papers-explained-53-galactica-1308dbd318dc) | November 2022 | An LLM trained on scientific data thus specializing in scientific knowledge. |
 | [ChatGPT](https://ritvik19.medium.com/papers-explained-54-chatgpt-78387333268f) | Novemeber 2022 | An interactive model designed to engage in conversations, built on top of GPT 3.5. |
+| [LLaMA](https://ritvik19.medium.com/papers-explained-55-llama-c4f302809d6b) | February 2023 | A collection of foundation LLMs by Meta ranging from 7B to 65B parameters, trained using publicly available datasets exclusively. |
 
 ## Vision Models
 
