@@ -34,7 +34,8 @@ Explanations to key concepts in ML
 | [Galactica](https://ritvik19.medium.com/papers-explained-53-galactica-1308dbd318dc) | November 2022 | An LLM trained on scientific data thus specializing in scientific knowledge. |
 | [ChatGPT](https://ritvik19.medium.com/papers-explained-54-chatgpt-78387333268f) | November 2022 | An interactive model designed to engage in conversations, built on top of GPT 3.5. |
 | [LLaMA](https://ritvik19.medium.com/papers-explained-55-llama-c4f302809d6b) | February 2023 | A collection of foundation LLMs by Meta ranging from 7B to 65B parameters, trained using publicly available datasets exclusively. |
-| [Alpaca](https://ritvik19.medium.com/papers-explained-56-alpaca-933c4d9855e5) | Marcg 2023 | A fine-tuned LLaMA 7B model, trained on instruction-following demonstrations generated in the style of self-instruct using text-davinci-003. |
+| [Alpaca](https://ritvik19.medium.com/papers-explained-56-alpaca-933c4d9855e5) | March 2023 | A fine-tuned LLaMA 7B model, trained on instruction-following demonstrations generated in the style of self-instruct using text-davinci-003. |
+| [LIMA](https://ritvik19.medium.com/papers-explained-57-lima-f9401a5760c3) | May 2023 | A LLaMa model fine-tuned on only 1,000 carefully curated prompts and responses, without any reinforcement learning or human preference modeling. |
 
 ## Vision Models
 
