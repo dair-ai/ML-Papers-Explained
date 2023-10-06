@@ -37,6 +37,7 @@ Explanations to key concepts in ML
 | [Alpaca](https://ritvik19.medium.com/papers-explained-56-alpaca-933c4d9855e5) | March 2023 | A fine-tuned LLaMA 7B model, trained on instruction-following demonstrations generated in the style of self-instruct using text-davinci-003. |
 | [PaLM 2](https://ritvik19.medium.com/papers-explained-58-palm-2-1a9a23f20d6c) | May 2023 | Successor of PALM, trained on a mixture of different pre-training objectives in order to understand different aspects of language. |
 | [LIMA](https://ritvik19.medium.com/papers-explained-57-lima-f9401a5760c3) | May 2023 | A LLaMa model fine-tuned on only 1,000 carefully curated prompts and responses, without any reinforcement learning or human preference modeling. |
+| [Falcon](https://ritvik19.medium.com/papers-explained-59-falcon-26831087247f) | June 2023 | An Open Source LLM trained on properly filtered and deduplicated web data alone. |
 
 ## Vision Models
 
