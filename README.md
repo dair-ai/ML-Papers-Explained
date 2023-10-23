@@ -42,6 +42,8 @@ Explanations to key concepts in ML
 | [Humpback](https://ritvik19.medium.com/papers-explained-61-humpback-46992374fc34) | August 2023 | LLaMA finetuned using Instrustion backtranslation. |
 | [Code LLaMA](https://ritvik19.medium.com/papers-explained-62-code-llama-ee266bfa495f) | August 2023 | LLaMA 2 based LLM for code. |
 | [LLaMA 2 Long](https://ritvik19.medium.com/papers-explained-63-llama-2-long-84d33c26d14a) | September 2023 | A series of long context LLMs s that support effective context windows of up to 32,768 tokens. |
+| [Mistral 7B](https://ritvik19.medium.com/papers-explained-mistral-7b-b9632dedf580) | October 2023 | Leverages grouped-query attention for faster inference, coupled with sliding window attention to effectively handle sequences of arbitrary length with a reduced inference cost. |
+
 
 ## Vision Models
 
