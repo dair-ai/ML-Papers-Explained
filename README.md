@@ -48,6 +48,7 @@ Explanations to key concepts in ML
 | [LLaMA 2 Long](https://ritvik19.medium.com/papers-explained-63-llama-2-long-84d33c26d14a) | September 2023 | A series of long context LLMs s that support effective context windows of up to 32,768 tokens. |
 | [Mistral 7B](https://ritvik19.medium.com/papers-explained-mistral-7b-b9632dedf580) | October 2023 | Leverages grouped-query attention for faster inference, coupled with sliding window attention to effectively handle sequences of arbitrary length with a reduced inference cost. |
 | [Llemma](https://ritvik19.medium.com/papers-explained-69-llemma-0a17287e890a) | October 2023 | An LLM for mathematics, formed by continued pretraining of Code Llama on a mixture of scientific papers, web data containing mathematics, and mathematical code. |
+| [CodeFusion](https://ritvik19.medium.com/papers-explained-70-codefusion-fee6aba0149a) | October 2023 | A diffusion code generation model that iteratively refines entire programs based on encoded natural language, overcoming the limitation of auto-regressive models in code generation by allowing reconsideration of earlier tokens. |
 
 ## Vision Models
 
