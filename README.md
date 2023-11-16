@@ -25,7 +25,7 @@ Explanations to key concepts in ML
 | [Longformer](https://ritvik19.medium.com/papers-explained-38-longformer-9a08416c532e) | April 2020 | Introduces a linearly scalable attention mechanism, allowing handling texts of exteded length. |
 | [GPT 3](https://ritvik19.medium.com/papers-explained-66-gpt-3-352f5a1b397) | May 2020 | Demonstrates that scaling up language models greatly improves task-agnostic, few-shot performance. |
 | [DeBERTa](https://ritvik19.medium.com/papers-explained-08-deberta-a808d9b2c52d) | June 2020 | Enhances BERT and RoBERTa through disentangled attention mechanisms, an enhanced mask decoder, and virtual adversarial training. |
-| [DeBERTa v2](https://ritvik19.medium.com/papers-explained-08-deberta-a808d9b2c52d#f5e1) | June 2020 | Improved DeBERTa with larger vocab size, bigger models and architectural advancements. |
+| [DeBERTa v2](https://ritvik19.medium.com/papers-explained-08-deberta-a808d9b2c52d#f5e1) | June 2020 | Enhanced version of the DeBERTa featuring a new vocabulary, nGiE integration, optimized attention mechanisms, additional model sizes, and improved tokenization. |
 | [Codex](https://ritvik19.medium.com/papers-explained-45-codex-caca940feb31) | July 2021 | A GPT language model finetuned on publicly available code from GitHub. |
 | [FLAN](https://ritvik19.medium.com/papers-explained-46-flan-1c5e0d5db7c9) | September 2021 | An instruction-tuned language model developed through finetuning on various NLP datasets described by natural language instructions. |
 | [Gopher](https://ritvik19.medium.com/papers-explained-47-gopher-2e71bbef9e87) | December 2021 | Provides a comprehensive analysis of the performance of various Transformer models across different scales upto 280B on 152 tasks. |
