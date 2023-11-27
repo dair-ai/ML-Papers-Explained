@@ -152,6 +152,9 @@ Explanations to key concepts in ML
 
 ## Reading Lists
 - [Language Models](https://ritvik19.medium.com/list/language-models-11b008ddc292)
+- [GPT Models](https://ritvik19.medium.com/list/gpt-models-fa2cc801d840)
+- [LLaMA Models](https://ritvik19.medium.com/list/llama-models-5b8ea07308cb)
+- [Multi Task Language Models](https://ritvik19.medium.com/list/multi-task-language-models-e6a2a1e517e6)
 - [Layout Transformers](https://ritvik19.medium.com/list/layout-transformers-1ce4f291a9f0)
 - [Object Detection](https://ritvik19.medium.com/list/object-detection-bd9e6e21ca3e)
 - [RCNNs](https://ritvik19.medium.com/list/rcnns-b51467f53dc9)
