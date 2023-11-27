@@ -152,6 +152,7 @@ Explanations to key concepts in ML
 
 ## Reading Lists
 - [Language Models](https://ritvik19.medium.com/list/language-models-11b008ddc292)
+- [Encoder Only Language Transformers](https://ritvik19.medium.com/list/encoderonly-language-transformers-0f2ff06e0309)
 - [GPT Models](https://ritvik19.medium.com/list/gpt-models-fa2cc801d840)
 - [LLaMA Models](https://ritvik19.medium.com/list/llama-models-5b8ea07308cb)
 - [Multi Task Language Models](https://ritvik19.medium.com/list/multi-task-language-models-e6a2a1e517e6)
