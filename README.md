@@ -104,6 +104,7 @@ Explanations to key concepts in ML
 | [Fast RCNN](https://ritvik19.medium.com/papers-explained-15-fast-rcnn-28c1792dcee0) | April 2015 | Processes entire image through CNN, employs RoI Pooling to extract feature vectors from ROIs, followed by classification and BBox regression. |
 | [Faster RCNN](https://ritvik19.medium.com/papers-explained-16-faster-rcnn-a7b874ffacd9) | June 2015 | A region proposal network (RPN) and a Fast R-CNN detector, collaboratively predict object regions by sharing convolutional features. |
 | [Mask RCNN](https://ritvik19.medium.com/papers-explained-17-mask-rcnn-82c64bea5261) | March 2017 | Extends Faster R-CNN to solve instance segmentation tasks, by adding a branch for predicting an object mask in parallel with the existing branch. |
+| [Cascade RCNN](https://ritvik19.medium.com/papers-explained-77-cascade-rcnn-720b161d86e4) | December 2017 | Proposes a multi-stage approach where detectors are trained with progressively higher IoU thresholds, improving selectivity against false positives. |
 
 ## Document AI
 
