@@ -147,6 +147,7 @@ Explanations to key concepts in ML
 | Paper | Date | Description |
 |---|---|---|
 | [ColD Fusion](https://ritvik19.medium.com/papers-explained-32-cold-fusion-452f33101a91) | December 2022 | A method enabling the benefits of multitask learning through distributed computation without data sharing and improving model performance. |
+| [An In-depth Look at Gemini's Language Abilities](https://ritvik19.medium.com/papers-explained-81-an-in-depth-look-at-geminis-language-abilities-540ca9046d8e) | December 2023 | A third-party, objective comparison of the abilities of the OpenAI GPT and Google Gemini models with reproducible code and fully transparent results. |
 
 ---
 
