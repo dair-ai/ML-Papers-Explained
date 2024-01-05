@@ -60,6 +60,13 @@ Explanations to key concepts in ML
 | [Zephyr 7B](https://ritvik19.medium.com/papers-explained-71-zephyr-7ec068e2f20b) | October 2023 | Utilizes dDPO and AI Feedback (AIF) preference data to achieve superior intent alignment in chat-based language modeling. |
 | [Gemini 1.0](https://ritvik19.medium.com/papers-explained-80-gemini-1-0-97308ef96fcd) | December 2023 | A family of highly capable multi-modal models, trained jointly across image, audio, video, and text data for the purpose of building a model with strong generalist capabilities across modalities. |
 
+## Language Models for Retrieval
+
+| Paper | Date | Description |
+|---|---|---|
+| [Dense Passage Retriever](https://ritvik19.medium.com/papers-explained-86-dense-passage-retriever-c4742fdf27ed) | April 2020 | Shows that retrieval can be practically implemented using dense representations alone, where embeddings are learned from a small number of questions and passages by a simple dual encoder framework. |
+
+
 ## Vision Models
 
 | Paper | Date | Description |
