@@ -66,6 +66,7 @@ Explanations to key concepts in ML
 |---|---|---|
 | [Dense Passage Retriever](https://ritvik19.medium.com/papers-explained-86-dense-passage-retriever-c4742fdf27ed) | April 2020 | Shows that retrieval can be practically implemented using dense representations alone, where embeddings are learned from a small number of questions and passages by a simple dual encoder framework. |
 | [ColBERT](https://medium.com/@ritvik19/papers-explained-88-colbert-fe2fd0509649) | April 2020 | Introduces a late interaction architecture that adapts deep LMs (in particular, BERT) for efficient retrieval. |
+| [ColBERTv2](https://ritvik19.medium.com/papers-explained-89-colbertv2-7d921ee6e0d9) | December 2021 | Couples an aggressive residual compression mechanism with a denoised supervision strategy to simultaneously improve the quality and space footprint of late interaction. |
 
 
 ## Vision Models
