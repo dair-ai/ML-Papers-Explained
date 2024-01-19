@@ -102,6 +102,7 @@ Explanations to key concepts in ML
 | [Efficient Net](https://ritvik19.medium.com/papers-explained-review-01-convolutional-neural-networks-78aeff61dcb3#560a) | May 2019 | Uses a compound scaling method to scale the network's depth, width, and resolution to achieve a high accuracy with a relatively low computational cost. |
 | [NF Net](https://ritvik19.medium.com/papers-explained-84-nf-net-b8efa03d6b26) | February 2021 | An improved class of Normalizer-Free ResNets that implement batch-normalized networks, offer faster training times, and introduce an adaptive gradient clipping technique to overcome instabilities associated with deep ResNets. |
 | [Conv Mixer](https://ritvik19.medium.com/papers-explained-29-convmixer-f073f0356526) | January 2022 | Processes image patches using standard convolutions for mixing spatial and channel dimensions. |
+| [ConvNeXt](https://ritvik19.medium.com/papers-explained-92-convnext-d13385d9177d) | January 2022 | A pure ConvNet model, evolved from standard ResNet design, that competes well with Transformers in accuracy and scalability. |
 
 ## Object Detection
 
