@@ -104,6 +104,7 @@ Explanations to key concepts in ML
 | [NF Net](https://ritvik19.medium.com/papers-explained-84-nf-net-b8efa03d6b26) | February 2021 | An improved class of Normalizer-Free ResNets that implement batch-normalized networks, offer faster training times, and introduce an adaptive gradient clipping technique to overcome instabilities associated with deep ResNets. |
 | [Conv Mixer](https://ritvik19.medium.com/papers-explained-29-convmixer-f073f0356526) | January 2022 | Processes image patches using standard convolutions for mixing spatial and channel dimensions. |
 | [ConvNeXt](https://ritvik19.medium.com/papers-explained-92-convnext-d13385d9177d) | January 2022 | A pure ConvNet model, evolved from standard ResNet design, that competes well with Transformers in accuracy and scalability. |
+| [ConvNeXt V2](https://ritvik19.medium.com/papers-explained-94-convnext-v2-2ecdabf2081c) | January 2023 | Incorporates a fully convolutional MAE framework and a Global Response Normalization (GRN) layer, boosting performance across multiple benchmarks. |
 
 ## Object Detection
 
