@@ -20,7 +20,7 @@ Explanations to key concepts in ML
 | [ALBERT](https://ritvik19.medium.com/papers-explained-07-albert-46a2a0563693) | September 2019 | Presents certain parameter reduction techniques to lower memory consumption and increase the training speed of BERT. |
 | [Distil BERT](https://ritvik19.medium.com/papers-explained-06-distil-bert-6f138849f871) | October 2019 | Distills BERT on very large batches leveraging gradient accumulation, using dynamic masking and without the next sentence prediction objective. |
 | [T5](https://ritvik19.medium.com/papers-explained-44-t5-9d974a3b7957) | October 2019 | A unified encoder-decoder framework that converts all text-based language problems into a text-to-text format. |
-| [BART](https://ritvik19.medium.com/papers-explained-09-bart-7f56138175bd) | October 2019 | A Decoder pretrained to reconstruct the original text from corrupted versions of it. |
+| [BART](https://ritvik19.medium.com/papers-explained-09-bart-7f56138175bd) | October 2019 | An Encoder-Decoder pretrained to reconstruct the original text from corrupted versions of it. |
 | [UniLMv2](https://ritvik19.medium.com/papers-explained-unilmv2-5a044ca7c525) | February 2020 | Utilizes a pseudo-masked language model (PMLM) for both autoencoding and partially autoregressive language modeling tasks,significantly advancing the capabilities of language models in diverse NLP tasks. |
 | [FastBERT](https://ritvik19.medium.com/papers-explained-37-fastbert-5bd246c1b432) | April 2020 | A speed-tunable encoder with adaptive inference time having branches at each transformer output to enable early outputs. |
 | [MobileBERT](https://ritvik19.medium.com/papers-explained-36-mobilebert-933abbd5aaf1) | April 2020 | Compressed and faster version of the BERT, featuring bottleneck structures, optimized attention mechanisms, and knowledge transfer. |
@@ -148,6 +148,18 @@ Explanations to key concepts in ML
 | [Layout LM V3](https://ritvik19.medium.com/papers-explained-13-layout-lm-v3-3b54910173aa) | April 2022 | A unified text-image multimodal Transformer to learn cross-modal representations, that imputs concatenation of text embedding and image embedding. |
 | [ERNIE Layout](https://ritvik19.medium.com/papers-explained-24-ernie-layout-47a5a38e321b) | October 2022 | Reorganizes tokens using layout information, combines text and visual embeddings, utilizes multi-modal transformers with spatial aware disentangled attention. |
 
+## Generative Adversarial Networks
+
+| Paper | Date | Description |
+|---|---|---|
+| [Generative Adversarial Networks](https://ritvik19.medium.com/papers-explained-review-05-generative-adversarial-networks-bbb51b160d5e#7041) | June 2014 | Introduces a framework where, a generative and a discriminative model, are trained simultaneously in a minimax game. |
+| [Conditional Generative Adversarial Networks](https://ritvik19.medium.com/papers-explained-review-05-generative-adversarial-networks-bbb51b160d5e#86aa) | November 2014 | A method for training GANs, enabling the generation based on specific conditions, by feeding them to both the generator and discriminator networks. |
+| [Deep Convolutional Generative Adversarial Networks](https://ritvik19.medium.com/papers-explained-review-05-generative-adversarial-networks-bbb51b160d5e#fe42) | November 2015 | Demonstrates the ability of CNNs for unsupervised learning using specific architectural constraints designed. |
+| [Improved GAN](https://ritvik19.medium.com/papers-explained-review-05-generative-adversarial-networks-bbb51b160d5e#9a55) | June 2016 | Presents a variety of new architectural features and training procedures that can be applied to the generative adversarial networks (GANs) framework. |
+| [Wasserstein Generative Adversarial Networks](https://ritvik19.medium.com/papers-explained-review-05-generative-adversarial-networks-bbb51b160d5e#6f8f) | January 2017 | An alternative GAN training algorithm that enhances learning stability, mitigates issues like mode collapse. |
+| [Cycle GAN](https://ritvik19.medium.com/papers-explained-review-05-generative-adversarial-networks-bbb51b160d5e#7f8b) | March 2017 | An approach for learning to translate an image from a source domain X to a target domain Y in the absence of paired examples by leveraging adversarial losses and cycle consistency constraints, using two GANs. |
+
+
 ## Tabular Deep Learning
 
 | Paper | Date | Description |
@@ -176,6 +188,7 @@ Explanations to key concepts in ML
 - [Layout Transformers](https://medium.com/dair-ai/papers-explained-review-02-layout-transformers-b2d165c94ad5)
 - [Region-based Convolutional Neural Networks](https://medium.com/dair-ai/papers-explained-review-03-rcnns-42c0a3974493)
 - [Tabular Deep Learning](https://medium.com/dair-ai/papers-explained-review-04-tabular-deep-learning-776db04f965b)
+- [Generative Adversarial Networks](https://ritvik19.medium.com/papers-explained-review-05-generative-adversarial-networks-bbb51b160d5e)
 
 ## Reading Lists
 - [Language Models](https://ritvik19.medium.com/list/language-models-11b008ddc292)
