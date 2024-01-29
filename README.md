@@ -60,6 +60,7 @@ Explanations to key concepts in ML
 | [Zephyr 7B](https://ritvik19.medium.com/papers-explained-71-zephyr-7ec068e2f20b) | October 2023 | Utilizes dDPO and AI Feedback (AIF) preference data to achieve superior intent alignment in chat-based language modeling. |
 | [Gemini 1.0](https://ritvik19.medium.com/papers-explained-80-gemini-1-0-97308ef96fcd) | December 2023 | A family of highly capable multi-modal models, trained jointly across image, audio, video, and text data for the purpose of building a model with strong generalist capabilities across modalities. |
 | [TinyLlama](https://ritvik19.medium.com/papers-explained-93-tinyllama-6ef140170da9) | January 2024 | A  1.1B language model built upon the architecture and tokenizer of Llama 2, pre-trained on around 1 trillion tokens for approximately 3 epochs, leveraging FlashAttention and Grouped Query Attention, to achieve better computational efficiency. |
+| [Mixtral 8x7B](https://ritvik19.medium.com/papers-explained-95-mixtral-8x7b-9e9f40ebb745) | January 2024 | A Sparse Mixture of Experts language model trained with multilingual data using a context size of 32k tokens. |
 
 ## Language Models for Retrieval
 
