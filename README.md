@@ -72,6 +72,11 @@ Explanations to key concepts in ML
 | [E5](https://ritvik19.medium.com/papers-explained-90-e5-75ea1519efad) | December 2022 | A family of text embeddings trained in a contrastive manner with weak supervision signals from a curated large-scale text pair dataset CCPairs. |
 | [E5 Mistral 7B](https://ritvik19.medium.com/papers-explained-91-e5-mistral-7b-23890f40f83a) | December 2023 | Leverages proprietary LLMs to generate diverse synthetic data to fine tune open-source decoder-only LLMs for hundreds of thousands of text embedding tasks. |
 
+## Representation Learning
+
+| Paper | Date | Description |
+|---|---|---|
+| [Matryoshka Representation Learning](https://ritvik19.medium.com/papers-explained-matryoshka-representation-learning-e7a139f6ad27) | May 2022 | Encodes information at different granularities and allows a flexible representation that can adapt to multiple downstream tasks with varying computational resources using a single embedding. |
 
 ## Vision Models
 
@@ -194,13 +199,18 @@ Explanations to key concepts in ML
 ## Reading Lists
 - [Language Models](https://ritvik19.medium.com/list/language-models-11b008ddc292)
 - [Encoder Only Language Transformers](https://ritvik19.medium.com/list/encoderonly-language-transformers-0f2ff06e0309)
+- [Decoder Only Language Transformers](https://ritvik19.medium.com/list/decoderonly-language-transformers-5448110c6046)
+- [Language Models for Retrieval](https://ritvik19.medium.com/list/language-models-for-retrieval-3b6e14887105)
 - [GPT Models](https://ritvik19.medium.com/list/gpt-models-fa2cc801d840)
 - [LLaMA Models](https://ritvik19.medium.com/list/llama-models-5b8ea07308cb)
 - [Multi Task Language Models](https://ritvik19.medium.com/list/multi-task-language-models-e6a2a1e517e6)
-- [Layout Transformers](https://ritvik19.medium.com/list/layout-transformers-1ce4f291a9f0)
+- [Layout Aware Transformers](https://ritvik19.medium.com/list/layout-transformers-1ce4f291a9f0)
+- [Representation Learning](https://ritvik19.medium.com/list/representation-learning-bd438198713c)
+- [Vision Transformers](https://ritvik19.medium.com/list/vision-transformers-61e6836230f1)
+- [Multi Modal Transformers](https://ritvik19.medium.com/list/multi-modal-transformers-67453f215ecf)
+- [Convolutional Neural Networks](https://ritvik19.medium.com/list/convolutional-neural-networks-5b875ce3b689)
 - [Object Detection](https://ritvik19.medium.com/list/object-detection-bd9e6e21ca3e)
-- [RCNNs](https://ritvik19.medium.com/list/rcnns-b51467f53dc9)
-- [Vision Models](https://ritvik19.medium.com/list/vision-models-61e6836230f1)
+- [Region Based Convolutional Neural Networks](https://ritvik19.medium.com/list/rcnns-b51467f53dc9)
 - [Document Information Processing](https://ritvik19.medium.com/list/document-information-processing-3cd900a34972)
 
 ---
