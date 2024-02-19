@@ -212,7 +212,6 @@ Explanations to key concepts in ML
 - [Language Models](https://ritvik19.medium.com/list/language-models-11b008ddc292)
 - [Encoder Only Language Transformers](https://ritvik19.medium.com/list/encoderonly-language-transformers-0f2ff06e0309)
 - [Decoder Only Language Transformers](https://ritvik19.medium.com/list/decoderonly-language-transformers-5448110c6046)
-- [Multi Modal Language Models](https://ritvik19.medium.com/list/multi-modal-language-models-05b919c2b184)
 - [Language Models for Retrieval](https://ritvik19.medium.com/list/language-models-for-retrieval-3b6e14887105)
 - [GPT Models](https://ritvik19.medium.com/list/gpt-models-fa2cc801d840)
 - [LLaMA Models](https://ritvik19.medium.com/list/llama-models-5b8ea07308cb)
