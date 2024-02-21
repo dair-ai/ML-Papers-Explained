@@ -68,8 +68,9 @@ Explanations to key concepts in ML
 | Paper | Date | Description |
 |---|---|---|
 | [Flamingo](https://ritvik19.medium.com/papers-explained-82-flamingo-8c124c394cdb) | April 2022 | Visual Language Models enabling seamless handling of interleaved visual and textual data, and facilitating few-shot learning on large-scale web corpora. |
-| [LLaVA1](https://ritvik19.medium.com/papers-explained-102-llava-1-eb0a3db7e43c) | April 2023 | A large multimodal model connecting CLIP and Vicuna trained end-to-end on instruction-following data generated through GPT-4 from image-text pairs. |
+| [LLaVA 1](https://ritvik19.medium.com/papers-explained-102-llava-1-eb0a3db7e43c) | April 2023 | A large multimodal model connecting CLIP and Vicuna trained end-to-end on instruction-following data generated through GPT-4 from image-text pairs. |
 | [GPT-4V](https://ritvik19.medium.com/papers-explained-68-gpt-4v-6e27c8a1d6ea) | September 2023 | A multimodal model that combines text and vision capabilities, allowing users to instruct it to analyze image inputs. |
+| [LLaVA 1.5](https://ritvik19.medium.com/papers-explained-103-llava-1-5-ddcb2e7f95b4) | October 2023 | An enhanced version of the LLaVA model that incorporates a CLIP-ViT-L-336px with an MLP projection and academic-task-oriented VQA data to set new benchmarks in large multimodal models (LMM) research. |
 | [Gemini 1.0](https://ritvik19.medium.com/papers-explained-80-gemini-1-0-97308ef96fcd) | December 2023 | A family of highly capable multi-modal models, trained jointly across image, audio, video, and text data for the purpose of building a model with strong generalist capabilities across modalities. |
 
 
