@@ -63,6 +63,7 @@ Explanations to key concepts in ML
 | [Mixtral 8x7B](https://ritvik19.medium.com/papers-explained-95-mixtral-8x7b-9e9f40ebb745) | January 2024 | A Sparse Mixture of Experts language model trained with multilingual data using a context size of 32k tokens. |
 | [OLMo](https://ritvik19.medium.com/papers-explained-98-olmo-fdc358326f9b) | February 2024 | A state-of-the-art, truly open language model and framework that includes training data, code, and tools for building, studying, and advancing language models. |
 | [Gemma](https://ritvik19.medium.com/papers-explained-106-gemma-ca2b449321ac) | February 2024 | A family of 2B and 7B, state-of-the-art language models based on Google's Gemini models, offering advancements in language understanding, reasoning, and safety. |
+| [Aya 101](https://ritvik19.medium.com/papers-explained-aya-101-d813ba17b83a) | Februray 2024 | A massively multilingual generative language model that follows instructions in 101 languages,trained by finetuning mT5. |
 
 ## Multi Modal Language Models
 
