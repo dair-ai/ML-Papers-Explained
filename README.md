@@ -94,6 +94,8 @@ Explanations to key concepts in ML
 |---|---|---|
 | [CLIP](https://ritvik19.medium.com/papers-explained-100-clip-f9873c65134) | February 2021 | A vision system that learns image representations from raw text-image pairs through pre-training, enabling zero-shot transfer to various downstream tasks. |
 | [Matryoshka Representation Learning](https://ritvik19.medium.com/papers-explained-matryoshka-representation-learning-e7a139f6ad27) | May 2022 | Encodes information at different granularities and allows a flexible representation that can adapt to multiple downstream tasks with varying computational resources using a single embedding. |
+| [Nomic Embed Text v1](https://ritvik19.medium.com/papers-explained-110-nomic-embed-8ccae819dac2) | February 2024 | A 137M parameter, open-source English text embedding model with an 8192 context length that outperforms OpenAI's models on both short and long-context tasks. |
+| [Nomic Embed Text v1.5](https://ritvik19.medium.com/papers-explained-110-nomic-embed-8ccae819dac2#2119) | February 2024 | An advanced text embedding model that utilizes Matryoshka Representation Learning to offer flexible embedding sizes with minimal performance trade-offs |
 
 ## Vision Models
 
