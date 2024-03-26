@@ -83,6 +83,7 @@ Explanations to key concepts in ML
 | [MoE-LLaVA](https://ritvik19.medium.com/papers-explained-104-moe-llava-cf14fda01e6f) | January 2024 | A MoE-based sparse LVLM framework that activates only the top-k experts through routers during deployment, maintaining computational efficiency while achieving comparable performance to larger models. |
 | [LLaVA 1.6](https://ritvik19.medium.com/papers-explained-107-llava-1-6-a312efd496c5) | January 2024 | An improved version of a LLaVA 1.5 with enhanced reasoning, OCR, and world knowledge capabilities, featuring increased image resolution |
 | [Gemini 1.5 Pro](https://ritvik19.medium.com/papers-explained-105-gemini-1-5-pro-029bbce3b067) | February 2024 | A highly compute-efficient multimodal mixture-of-experts model that excels in long-context retrieval tasks and understanding across text, video, and audio modalities. |
+| [MM1](https://ritvik19.medium.com/papers-explained-117-mm1-c579142bcdc0) | March 2024 | A multimodal llm that combines a ViT-H image encoder with 378x378px resolution, pretrained on a data mix of image-text documents and text-only documents, scaled up to 3B, 7B, and 30B parameters for enhanced performance across various tasks |
 
 ## Language Models for Retrieval
 
