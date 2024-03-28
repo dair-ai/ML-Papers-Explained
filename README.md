@@ -70,6 +70,7 @@ Explanations to key concepts in ML
 | [OLMo](https://ritvik19.medium.com/papers-explained-98-olmo-fdc358326f9b) | February 2024 | A state-of-the-art, truly open language model and framework that includes training data, code, and tools for building, studying, and advancing language models. |
 | [Gemma](https://ritvik19.medium.com/papers-explained-106-gemma-ca2b449321ac) | February 2024 | A family of 2B and 7B, state-of-the-art language models based on Google's Gemini models, offering advancements in language understanding, reasoning, and safety. |
 | [Aya 101](https://ritvik19.medium.com/papers-explained-aya-101-d813ba17b83a) | Februray 2024 | A massively multilingual generative language model that follows instructions in 101 languages,trained by finetuning mT5. |
+| [WRAP](https://ritvik19.medium.com/papers-explained-118-wrap-e563e009fe56) | March 2024 | Uses an off-the-shelf instruction-tuned model prompted to paraphrase documents on the web in specific styles to jointly pre-train LLMs on real and synthetic rephrases. |
 
 ## Multi Modal Language Models
 
