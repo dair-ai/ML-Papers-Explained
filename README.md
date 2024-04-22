@@ -55,6 +55,7 @@ Explanations to key concepts in ML
 | [Vicuna](https://ritvik19.medium.com/papers-explained-101-vicuna-daed99725c7e) | March 2023 | A 13B LLaMA chatbot fine tuned on user-shared conversations collected from ShareGPT, capable of generating more detailed and well-structured answers compared to Alpaca. |
 | [BloombergGPT](https://ritvik19.medium.com/papers-explained-120-bloomberggpt-4bedd52ef54b) | March 2023 | A 50B language model train on general purpose and domain specific data to support a wide range of tasks within the financial industry. |
 | [Pythia](https://ritvik19.medium.com/papers-explained-121-pythia-708284c32964) | April 2023 | A suite of 16 LLMs all trained on public data seen in the exact same order and ranging in size from 70M to 12B parameters. |
+| [WizardLM](https://ritvik19.medium.com/papers-explained-127-wizardlm-65099705dfa3) | April 2023 | Introduces Evol-Instruct, a method to generate large amounts of instruction data with varying levels of complexity using LLM instead of humans to fine tune a Llama model  |
 | [CodeGen2](https://ritvik19.medium.com/papers-explained-codegen2-d2690d7eb831) | May 2023 | Proposes an approach to make the training of LLMs for program synthesis more efficient by unifying key components of model architectures, learning methods, infill sampling, and data distributions |
 | [PaLM 2](https://ritvik19.medium.com/papers-explained-58-palm-2-1a9a23f20d6c) | May 2023 | Successor of PALM, trained on a mixture of different pre-training objectives in order to understand different aspects of language. |
 | [LIMA](https://ritvik19.medium.com/papers-explained-57-lima-f9401a5760c3) | May 2023 | A LLaMa model fine-tuned on only 1,000 carefully curated prompts and responses, without any reinforcement learning or human preference modeling. |
@@ -242,6 +243,7 @@ Explanations to key concepts in ML
 - [GPT Models](https://ritvik19.medium.com/list/gpt-models-fa2cc801d840)
 - [LLaMA Models](https://ritvik19.medium.com/list/llama-models-5b8ea07308cb)
 - [Gemini / Gemma Models](https://ritvik19.medium.com/list/gemini-gemma-models-4cb7dfc50d42)
+- [Wizard Models](https://ritvik19.medium.com/list/wizard-models-9b972e860683)
 - [Multi Task Language Models](https://ritvik19.medium.com/list/multi-task-language-models-e6a2a1e517e6)
 - [Layout Aware Transformers](https://ritvik19.medium.com/list/layout-transformers-1ce4f291a9f0)
 - [Representation Learning](https://ritvik19.medium.com/list/representation-learning-bd438198713c)
