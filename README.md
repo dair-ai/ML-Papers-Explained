@@ -84,6 +84,7 @@ Explanations to key concepts in ML
 | [DBRX](https://ritvik19.medium.com/papers-explained-119-dbrx-17c61739983c) | March 2024 | A 132B open, general-purpose fine grained Sparse MoE LLM surpassing GPT-3.5 and competitive with Gemini 1.0 Pro. |
 | [CodeGemma](https://ritvik19.medium.com/papers-explained-124-codegemma-85faa98af20d) | April 2024 | Open code models based on Gemma models by further training on over 500 billion tokens of primarily code. |
 | [RecurrentGemma](https://ritvik19.medium.com/papers-explained-132-recurrentgemma-52732d0f4273) | April 2024 | Based on Griffin, uses a combination of linear recurrences and local attention instead of global attention to model long sequences efficiently. |
+| [Rho-1](https://ritvik19.medium.com/papers-explained-132-rho-1-788125e42241) | April 2024 | Introduces Selective Language Modelling that optimizes the loss only on tokens that align with a desired distribution, utilizing a reference model to score and select tokens. |
 | [Phi-3](https://ritvik19.medium.com/papers-explained-130-phi-3-0dfc951dc404) | April 2024 | A series of language models trained on heavily filtered web and synthetic data set, achieving performance comparable to much larger models like Mixtral 8x7B and GPT-3.5. |
 
 ## Multi Modal Language Models
