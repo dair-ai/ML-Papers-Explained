@@ -86,6 +86,7 @@ Explanations to key concepts in ML
 | [RecurrentGemma](https://ritvik19.medium.com/papers-explained-132-recurrentgemma-52732d0f4273) | April 2024 | Based on Griffin, uses a combination of linear recurrences and local attention instead of global attention to model long sequences efficiently. |
 | [Rho-1](https://ritvik19.medium.com/papers-explained-132-rho-1-788125e42241) | April 2024 | Introduces Selective Language Modelling that optimizes the loss only on tokens that align with a desired distribution, utilizing a reference model to score and select tokens. |
 | [Phi-3](https://ritvik19.medium.com/papers-explained-130-phi-3-0dfc951dc404) | April 2024 | A series of language models trained on heavily filtered web and synthetic data set, achieving performance comparable to much larger models like Mixtral 8x7B and GPT-3.5. |
+| [Open ELM](https://ritvik19.medium.com/papers-explained-133-open-elm-864f6b28a6ab) | April 2024 | A fully open language model designed to enhance accuracy while using fewer parameters and pre-training tokens. Utilizes a layer-wise scaling strategy to allocate smaller dimensions in early layers, expanding in later layers. |
 
 ## Multi Modal Language Models
 
