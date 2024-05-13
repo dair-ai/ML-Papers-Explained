@@ -259,6 +259,7 @@ Explanations to key concepts in ML
 - [LLaMA Models](https://ritvik19.medium.com/list/llama-models-5b8ea07308cb)
 - [Gemini / Gemma Models](https://ritvik19.medium.com/list/gemini-gemma-models-4cb7dfc50d42)
 - [Wizard Models](https://ritvik19.medium.com/list/wizard-models-9b972e860683)
+- [LLM Lingua Series](https://ritvik19.medium.com/list/llm-lingua-series-2f61b47d0343)
 - [Multi Task Language Models](https://ritvik19.medium.com/list/multi-task-language-models-e6a2a1e517e6)
 - [Layout Aware Transformers](https://ritvik19.medium.com/list/layout-transformers-1ce4f291a9f0)
 - [Representation Learning](https://ritvik19.medium.com/list/representation-learning-bd438198713c)
