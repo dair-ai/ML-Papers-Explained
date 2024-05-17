@@ -128,6 +128,7 @@ Explanations to key concepts in ML
 |---|---|---|
 | [LLMLingua](https://ritvik19.medium.com/papers-explained-136-llmlingua-f9b2f53f5f9b) | October 2023 | A novel coarse-to-fine prompt compression method, incorporating a budget controller, an iterative token-level compression algorithm, and distribution alignment, achieving up to 20x compression with minimal performance loss. |
 | [LongLLMLingua](https://ritvik19.medium.com/papers-explained-137-longllmlingua-45961fa703dd) | October 2023 | A novel approach for prompt compression to enhance performance in long context scenarios using question-aware compression and document reordering. |
+| [LLMLingua2](https://ritvik19.medium.com/papers-explained-138-llmlingua-2-510c752368a8) | March 2024 | A novel approach to task-agnostic prompt compression, aiming to enhance generalizability, using  data distillation and leveraging a Transformer encoder for token classification. |
 
 ## Vision Models
 
