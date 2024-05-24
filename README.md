@@ -65,6 +65,7 @@ Explanations to key concepts in ML
 | [Phi-1](https://ritvik19.medium.com/papers-explained-114-phi-1-14a8dcc77ce5) | June 2023 | An LLM for code, trained using a textbook quality data from the web and synthetically generated textbooks and exercises with GPT-3.5. |
 | [WizardCoder](https://ritvik19.medium.com/papers-explained-wizardcoder-a12ecb5b93b6) | June 2023 | Enhances the performance of the open-source Code LLM, StarCoder, through the application of Code Evol-Instruct. |
 | [LLaMA 2](https://ritvik19.medium.com/papers-explained-60-llama-v2-3e415c5b9b17) | July 2023 | Successor of LLaMA. LLaMA 2-Chat is optimized for dialogue use cases. |
+| [Tool LLM](https://ritvik19.medium.com/papers-explained-141-tool-llm-856f99e79f55) | July 2023 | A LLaMA model finetuned on an instruction-tuning dataset for tool use, automatically created using ChatGPT. |
 | [Humpback](https://ritvik19.medium.com/papers-explained-61-humpback-46992374fc34) | August 2023 | LLaMA finetuned using Instrustion backtranslation. |
 | [Code LLaMA](https://ritvik19.medium.com/papers-explained-62-code-llama-ee266bfa495f) | August 2023 | LLaMA 2 based LLM for code. |
 | [WizardMath](https://ritvik19.medium.com/papers-explained-129-wizardmath-265e6e784341) | August 2023 | Proposes Reinforcement Learning from Evol-Instruct Feedback (RLEIF) method, applied to Llama-2 to enhance the mathematical reasoning abilities. |
