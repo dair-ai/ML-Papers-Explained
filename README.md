@@ -105,6 +105,8 @@ Explanations to key concepts in ML
 | [LLaVA 1.6](https://ritvik19.medium.com/papers-explained-107-llava-1-6-a312efd496c5) | January 2024 | An improved version of a LLaVA 1.5 with enhanced reasoning, OCR, and world knowledge capabilities, featuring increased image resolution |
 | [Gemini 1.5 Pro](https://ritvik19.medium.com/papers-explained-105-gemini-1-5-pro-029bbce3b067) | February 2024 | A highly compute-efficient multimodal mixture-of-experts model that excels in long-context retrieval tasks and understanding across text, video, and audio modalities. |
 | [MM1](https://ritvik19.medium.com/papers-explained-117-mm1-c579142bcdc0) | March 2024 | A multimodal llm that combines a ViT-H image encoder with 378x378px resolution, pretrained on a data mix of image-text documents and text-only documents, scaled up to 3B, 7B, and 30B parameters for enhanced performance across various tasks |
+| [Phi 3 Vision](https://ritvik19.medium.com/papers-explained-130-phi-3-0dfc951dc404#7ba6) | May 2024 | First multimodal model in the Phi family, bringing the ability to reason over images and extract and reason over text from images. |
+
 | [Gemini 1.5 Flash](https://ritvik19.medium.com/papers-explained-142-gemini-1-5-flash-415e2dc6a989) | May 2024 | A more lightweight variant of the Gemini 1.5 pro, designed for efficiency with minimal regression in quality, making it suitable for applications where compute resources are limited. |
 
 ## Language Models for Retrieval
