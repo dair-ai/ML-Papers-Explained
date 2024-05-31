@@ -91,6 +91,8 @@ Explanations to key concepts in ML
 | [Phi-3](https://ritvik19.medium.com/papers-explained-130-phi-3-0dfc951dc404) | April 2024 | A series of language models trained on heavily filtered web and synthetic data set, achieving performance comparable to much larger models like Mixtral 8x7B and GPT-3.5. |
 | [Open ELM](https://ritvik19.medium.com/papers-explained-133-open-elm-864f6b28a6ab) | April 2024 | A fully open language model designed to enhance accuracy while using fewer parameters and pre-training tokens. Utilizes a layer-wise scaling strategy to allocate smaller dimensions in early layers, expanding in later layers. |
 | [H2O Danube2 1.8B](https://ritvik19.medium.com/papers-explained-111-h2o-danube-1-8b-b790c073d257#00d8) | April 2024 |  An updated version of the original H2O-Danube model, with improvements including removal of sliding window attention, changes to the tokenizer, and adjustments to the training data, resulting in significant performance enhancements. |
+| [Granite Code Models](https://ritvik19.medium.com/paper-explained-144-granite-code-models-e1a92678739b) | May 2024 | A family of code models ranging from 3B to 34B trained on 3.5-4.5T tokens of code written in 116 programming languages. |
+
 
 ## Multi Modal Language Models
 
