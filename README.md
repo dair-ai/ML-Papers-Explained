@@ -130,6 +130,12 @@ Explanations to key concepts in ML
 | [Nomic Embed Text v1](https://ritvik19.medium.com/papers-explained-110-nomic-embed-8ccae819dac2) | February 2024 | A 137M parameter, open-source English text embedding model with an 8192 context length that outperforms OpenAI's models on both short and long-context tasks. |
 | [Nomic Embed Text v1.5](https://ritvik19.medium.com/papers-explained-110-nomic-embed-8ccae819dac2#2119) | February 2024 | An advanced text embedding model that utilizes Matryoshka Representation Learning to offer flexible embedding sizes with minimal performance trade-offs |
 
+## Parameter Efficient Fine Tuning
+
+| Paper | Date | Description |
+|---|---|---|
+| [LoRA](https://ritvik19.medium.com/papers-explained-lora-a48359cecbfa) | July 2021 | Introduces trainable rank decomposition matrices into each layer of a pre-trained Transformer model, significantly reducing the number of trainable parameters for downstream tasks. |
+
 ## Compression, Pruning, Quantization
 
 | Paper | Date | Description |
@@ -237,6 +243,13 @@ Explanations to key concepts in ML
 | [Tabular ResNet](https://ritvik19.medium.com/papers-explained-review-04-tabular-deep-learning-776db04f965b#46af) | June 2021 | An MLP with skip connections. |
 | [Feature Tokenizer Transformer](https://ritvik19.medium.com/papers-explained-review-04-tabular-deep-learning-776db04f965b#1ab8) | June 2021 | Transforms all features (categorical and numerical) to embeddings and applies a stack of Transformer layers to the embeddings. |
 
+## Datasets
+
+| Paper | Date | Description |
+|---|---|---|
+| [Dolma](https://ritvik19.medium.com/papers-explained-97-dolma-a656169269cb) | January 2024 | An open corpus of three trillion tokens designed to support language model pretraining research. |
+| [Aya Dataset](https://ritvik19.medium.com/papers-explained-108-aya-dataset-9e299ac74a19) | Februray 2024 | A human-curated instruction-following dataset that spans 65 languages, created to bridge the language gap in datasets for natural language processing. |
+
 ## Miscellaneous
 
 | Paper | Date | Description |
@@ -245,8 +258,6 @@ Explanations to key concepts in ML
 | [Are Emergent Abilities of Large Language Models a Mirage?](https://ritvik19.medium.com/papers-explained-are-emergent-abilities-of-large-language-models-a-mirage-4160cf0e44cb) | April 2023 | This paper presents an alternative explanation for emergent abilities, i.e. emergent abilities are created by the researcher’s choice of metrics, not fundamental changes in model family behaviour on specific tasks with scale. |
 | [Scaling Data-Constrained Language Models](https://ritvik19.medium.com/papers-explained-85-scaling-data-constrained-language-models-2a4c18bcc7d3) | May 2023 | This study investigates scaling language models in data-constrained regimes. |
 | [An In-depth Look at Gemini's Language Abilities](https://ritvik19.medium.com/papers-explained-81-an-in-depth-look-at-geminis-language-abilities-540ca9046d8e) | December 2023 | A third-party, objective comparison of the abilities of the OpenAI GPT and Google Gemini models with reproducible code and fully transparent results. |
-| [Dolma](https://ritvik19.medium.com/papers-explained-97-dolma-a656169269cb) | January 2024 | An open corpus of three trillion tokens designed to support language model pretraining research. |
-| [Aya Dataset](https://ritvik19.medium.com/papers-explained-108-aya-dataset-9e299ac74a19) | Februray 2024 | A human-curated instruction-following dataset that spans 65 languages, created to bridge the language gap in datasets for natural language processing. |
 | [DSPy](https://ritvik19.medium.com/papers-explained-135-dspy-fe8af7e35091) | October 2023 | A programming model that abstracts LM pipelines as text transformation graphs, i.e. imperative computation graphs where LMs are invoked through declarative modules, optimizing their use through a structured framework of signatures, modules, and teleprompters to automate and enhance text transformation tasks. |
 
 ---
