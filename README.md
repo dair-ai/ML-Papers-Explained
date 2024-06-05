@@ -135,6 +135,7 @@ Explanations to key concepts in ML
 | Paper | Date | Description |
 |---|---|---|
 | [LoRA](https://ritvik19.medium.com/papers-explained-lora-a48359cecbfa) | July 2021 | Introduces trainable rank decomposition matrices into each layer of a pre-trained Transformer model, significantly reducing the number of trainable parameters for downstream tasks. |
+| [QLoRA](https://ritvik19.medium.com/papers-explained-146-qlora-a6e7273bc630) | May 2023 | Allows efficient training of large models on limited GPU memory, through innovations like 4-bit NormalFloat (NF4), double quantization and paged optimisers. |
 
 ## Compression, Pruning, Quantization
 
