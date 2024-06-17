@@ -95,6 +95,8 @@ Explanations to key concepts in ML
 | [H2O Danube2 1.8B](https://ritvik19.medium.com/papers-explained-111-h2o-danube-1-8b-b790c073d257#00d8) | April 2024 |  An updated version of the original H2O-Danube model, with improvements including removal of sliding window attention, changes to the tokenizer, and adjustments to the training data, resulting in significant performance enhancements. |
 | [Granite Code Models](https://ritvik19.medium.com/paper-explained-144-granite-code-models-e1a92678739b) | May 2024 | A family of code models ranging from 3B to 34B trained on 3.5-4.5T tokens of code written in 116 programming languages. |
 | [Codestral 22B](https://medium.com/dair-ai/papers-explained-mistral-7b-b9632dedf580#057b) | May 2024 | An open-weight model designed for code generation tasks, trained on over 80 programming languages, and licensed under the Mistral AI Non-Production License, allowing developers to use it for research and testing purposes. |
+| [Aya 23](https://ritvik19.medium.com/papers-explained-151-aya-23-d01605c3ee80) | May 2024 | A family of multilingual language models supporting 23 languages, designed to balance breadth and depth by allocating more capacity to fewer languages during pre-training. |
+
 
 
 ## Multi Modal Language Models
