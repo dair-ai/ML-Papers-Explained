@@ -104,6 +104,7 @@ Explanations to key concepts in ML
 
 | Paper | Date | Description |
 |---|---|---|
+| [BLIP](https://ritvik19.medium.com/papers-explained-154-blip-6d85c80a744d) | February 2022 | A Vision-Language Pre-training (VLP) framework that introduces Multimodal mixture of Encoder-Decoder (MED) and Captioning and Filtering (CapFilt), a new dataset bootstrapping method for learning from noisy image-text pairs. |
 | [Flamingo](https://ritvik19.medium.com/papers-explained-82-flamingo-8c124c394cdb) | April 2022 | Visual Language Models enabling seamless handling of interleaved visual and textual data, and facilitating few-shot learning on large-scale web corpora. |
 | [LLaVA 1](https://ritvik19.medium.com/papers-explained-102-llava-1-eb0a3db7e43c) | April 2023 | A large multimodal model connecting CLIP and Vicuna trained end-to-end on instruction-following data generated through GPT-4 from image-text pairs. |
 | [GPT-4V](https://ritvik19.medium.com/papers-explained-68-gpt-4v-6e27c8a1d6ea) | September 2023 | A multimodal model that combines text and vision capabilities, allowing users to instruct it to analyze image inputs. |
