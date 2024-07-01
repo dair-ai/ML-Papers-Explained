@@ -97,6 +97,7 @@ Explanations to key concepts in ML
 | [Granite Code Models](https://ritvik19.medium.com/paper-explained-144-granite-code-models-e1a92678739b) | May 2024 | A family of code models ranging from 3B to 34B trained on 3.5-4.5T tokens of code written in 116 programming languages. |
 | [Codestral 22B](https://medium.com/dair-ai/papers-explained-mistral-7b-b9632dedf580#057b) | May 2024 | An open-weight model designed for code generation tasks, trained on over 80 programming languages, and licensed under the Mistral AI Non-Production License, allowing developers to use it for research and testing purposes. |
 | [Aya 23](https://ritvik19.medium.com/papers-explained-151-aya-23-d01605c3ee80) | May 2024 | A family of multilingual language models supporting 23 languages, designed to balance breadth and depth by allocating more capacity to fewer languages during pre-training. |
+| [Gemma 2](https://ritvik19.medium.com/papers-explained-157-gemma-2-f1b75b56b9f2) | June 2024 | Utilizes interleaving local-global attentions and group-query attention, trained with knowledge distillation instead of next token prediction to achieve competitive performance comparable with larger models. |
 
 
 
