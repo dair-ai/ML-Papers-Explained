@@ -80,6 +80,7 @@ Explanations to key concepts in ML
 | [Llemma](https://ritvik19.medium.com/papers-explained-69-llemma-0a17287e890a) | October 2023 | An LLM for mathematics, formed by continued pretraining of Code Llama on a mixture of scientific papers, web data containing mathematics, and mathematical code. |
 | [CodeFusion](https://ritvik19.medium.com/papers-explained-70-codefusion-fee6aba0149a) | October 2023 | A diffusion code generation model that iteratively refines entire programs based on encoded natural language, overcoming the limitation of auto-regressive models in code generation by allowing reconsideration of earlier tokens. |
 | [Zephyr 7B](https://ritvik19.medium.com/papers-explained-71-zephyr-7ec068e2f20b) | October 2023 | Utilizes dDPO and AI Feedback (AIF) preference data to achieve superior intent alignment in chat-based language modeling. |
+| [Orca 2](https://ritvik19.medium.com/papers-explained-161-orca-2-b6ffbccd1eef) | November 2023 | Introduces Cautious Reasoning for training smaller models to select the most effective solution strategy based on the problem at hand, by crafting data with task-specific system instruction(s) corresponding to the chosen strategy in order to obtain teacher responses for each task and replacing the student’s system instruction with a generic one vacated of details of how to approach the task. |
 | [Phi-2](https://ritvik19.medium.com/papers-explained-phi-1-5-2857e56dbd2a) | December 2023 | A 2.7B model, developed to explore whether emergent abilities achieved by large-scale language models can also be achieved at a smaller scale using strategic choices for training, such as data selection. |
 | [TinyLlama](https://ritvik19.medium.com/papers-explained-93-tinyllama-6ef140170da9) | January 2024 | A  1.1B language model built upon the architecture and tokenizer of Llama 2, pre-trained on around 1 trillion tokens for approximately 3 epochs, leveraging FlashAttention and Grouped Query Attention, to achieve better computational efficiency. |
 | [Mixtral 8x7B](https://ritvik19.medium.com/papers-explained-95-mixtral-8x7b-9e9f40ebb745) | January 2024 | A Sparse Mixture of Experts language model trained with multilingual data using a context size of 32k tokens. |
@@ -300,6 +301,7 @@ Explanations to key concepts in ML
 - [LLaMA Models](https://ritvik19.medium.com/list/llama-models-5b8ea07308cb)
 - [Gemini / Gemma Models](https://ritvik19.medium.com/list/gemini-gemma-models-4cb7dfc50d42)
 - [Wizard Models](https://ritvik19.medium.com/list/wizard-models-9b972e860683)
+- [Orca Series](https://ritvik19.medium.com/list/orca-series-1c87367458fe)
 - [LLM Lingua Series](https://ritvik19.medium.com/list/llm-lingua-series-2f61b47d0343)
 - [Multi Task Language Models](https://ritvik19.medium.com/list/multi-task-language-models-e6a2a1e517e6)
 - [Layout Aware Transformers](https://ritvik19.medium.com/list/layout-transformers-1ce4f291a9f0)
