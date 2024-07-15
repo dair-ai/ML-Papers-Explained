@@ -302,7 +302,7 @@ Explanations to key concepts in ML
 - [LLM Lingua Series](https://ritvik19.medium.com/list/llm-lingua-series-2f61b47d0343)
 - [Multi Task Language Models](https://ritvik19.medium.com/list/multi-task-language-models-e6a2a1e517e6)
 - [Layout Aware Transformers](https://ritvik19.medium.com/list/layout-transformers-1ce4f291a9f0)
-- [Representation Learning](https://ritvik19.medium.com/list/representation-learning-bd438198713c)
+- [Retrieval and Representation Learning](https://ritvik19.medium.com/list/retrieval-and-representation-learning-bcd23de0bd8e)
 - [Vision Transformers](https://ritvik19.medium.com/list/vision-transformers-61e6836230f1)
 - [Multi Modal Transformers](https://ritvik19.medium.com/list/multi-modal-transformers-67453f215ecf)
 - [Convolutional Neural Networks](https://ritvik19.medium.com/list/convolutional-neural-networks-5b875ce3b689)
