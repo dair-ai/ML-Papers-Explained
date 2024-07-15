@@ -128,27 +128,21 @@ Explanations to key concepts in ML
 | [Gemini 1.5 Flash](https://ritvik19.medium.com/papers-explained-142-gemini-1-5-flash-415e2dc6a989) | May 2024 | A more lightweight variant of the Gemini 1.5 pro, designed for efficiency with minimal regression in quality, making it suitable for applications where compute resources are limited. |
 | [Chameleon](https://ritvik19.medium.com/papers-explained-143-chameleon-6cddfdbceaa8) | May 2024 | A family of early-fusion token-based mixed-modal models capable of understanding and generating images and text in any arbitrary sequence. |
 
-## Language Models for Retrieval
+## Retrieval and Representation Learning
 
 | Paper | Date | Description |
 |---|---|---|
 | [Dense Passage Retriever](https://ritvik19.medium.com/papers-explained-86-dense-passage-retriever-c4742fdf27ed) | April 2020 | Shows that retrieval can be practically implemented using dense representations alone, where embeddings are learned from a small number of questions and passages by a simple dual encoder framework. |
 | [ColBERT](https://medium.com/@ritvik19/papers-explained-88-colbert-fe2fd0509649) | April 2020 | Introduces a late interaction architecture that adapts deep LMs (in particular, BERT) for efficient retrieval. |
-| [ColBERTv2](https://ritvik19.medium.com/papers-explained-89-colbertv2-7d921ee6e0d9) | December 2021 | Couples an aggressive residual compression mechanism with a denoised supervision strategy to simultaneously improve the quality and space footprint of late interaction. |
-| [E5](https://ritvik19.medium.com/papers-explained-90-e5-75ea1519efad) | December 2022 | A family of text embeddings trained in a contrastive manner with weak supervision signals from a curated large-scale text pair dataset CCPairs. |
-| [E5 Mistral 7B](https://ritvik19.medium.com/papers-explained-91-e5-mistral-7b-23890f40f83a) | December 2023 | Leverages proprietary LLMs to generate diverse synthetic data to fine tune open-source decoder-only LLMs for hundreds of thousands of text embedding tasks. |
-
-## Representation Learning
-
-| Paper | Date | Description |
-|---|---|---|
 | [CLIP](https://ritvik19.medium.com/papers-explained-100-clip-f9873c65134) | February 2021 | A vision system that learns image representations from raw text-image pairs through pre-training, enabling zero-shot transfer to various downstream tasks. |
+| [ColBERTv2](https://ritvik19.medium.com/papers-explained-89-colbertv2-7d921ee6e0d9) | December 2021 | Couples an aggressive residual compression mechanism with a denoised supervision strategy to simultaneously improve the quality and space footprint of late interaction. |
 | [Matryoshka Representation Learning](https://ritvik19.medium.com/papers-explained-matryoshka-representation-learning-e7a139f6ad27) | May 2022 | Encodes information at different granularities and allows a flexible representation that can adapt to multiple downstream tasks with varying computational resources using a single embedding. |
+| [E5](https://ritvik19.medium.com/papers-explained-90-e5-75ea1519efad) | December 2022 | A family of text embeddings trained in a contrastive manner with weak supervision signals from a curated large-scale text pair dataset CCPairs. |
 | [SigLip](https://ritvik19.medium.com/papers-explained-152-siglip-011c48f9d448) | March 2023 | A simple pairwise Sigmoid loss function for Language-Image Pre-training that operates solely on image-text pairs, allowing for larger batch sizes and better performance at smaller batch sizes. |
+| [E5 Mistral 7B](https://ritvik19.medium.com/papers-explained-91-e5-mistral-7b-23890f40f83a) | December 2023 | Leverages proprietary LLMs to generate diverse synthetic data to fine tune open-source decoder-only LLMs for hundreds of thousands of text embedding tasks. |
 | [Nomic Embed Text v1](https://ritvik19.medium.com/papers-explained-110-nomic-embed-8ccae819dac2) | February 2024 | A 137M parameter, open-source English text embedding model with an 8192 context length that outperforms OpenAI's models on both short and long-context tasks. |
 | [Nomic Embed Text v1.5](https://ritvik19.medium.com/papers-explained-110-nomic-embed-8ccae819dac2#2119) | February 2024 | An advanced text embedding model that utilizes Matryoshka Representation Learning to offer flexible embedding sizes with minimal performance trade-offs |
 | [Nomic Embed Vision v1 and v1.5](https://ritvik19.medium.com/papers-explained-110-nomic-embed-8ccae819dac2#486b) | June 2024 | Aligns a Vision Encoder with the existing text encoders without destroying the downstream performance of the text encoder, to attain a unified multimodal latent space. |
-
 
 ## Parameter Efficient Fine Tuning
 
