@@ -105,7 +105,7 @@ Explanations to key concepts in ML
 | [Codestral 22B](https://medium.com/dair-ai/papers-explained-mistral-7b-b9632dedf580#057b) | May 2024 | An open-weight model designed for code generation tasks, trained on over 80 programming languages, and licensed under the Mistral AI Non-Production License, allowing developers to use it for research and testing purposes. |
 | [Aya 23](https://ritvik19.medium.com/papers-explained-151-aya-23-d01605c3ee80) | May 2024 | A family of multilingual language models supporting 23 languages, designed to balance breadth and depth by allocating more capacity to fewer languages during pre-training. |
 | [Gemma 2](https://ritvik19.medium.com/papers-explained-157-gemma-2-f1b75b56b9f2) | June 2024 | Utilizes interleaving local-global attentions and group-query attention, trained with knowledge distillation instead of next token prediction to achieve competitive performance comparable with larger models. |
-
+| [Mathstral](https://medium.com/dair-ai/papers-explained-mistral-7b-b9632dedf580#0fbe) | July 2024 | a 7B model designed for math reasoning and scientific discovery based on Mistral 7B specializing in STEM subjects. |
 
 
 ## Multi Modal Language Models
