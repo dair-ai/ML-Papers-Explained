@@ -127,8 +127,11 @@ Explanations to key concepts in ML
 | [Gemini 1.5 Pro](https://ritvik19.medium.com/papers-explained-105-gemini-1-5-pro-029bbce3b067) | February 2024 | A highly compute-efficient multimodal mixture-of-experts model that excels in long-context retrieval tasks and understanding across text, video, and audio modalities. |
 | [MM1](https://ritvik19.medium.com/papers-explained-117-mm1-c579142bcdc0) | March 2024 | A multimodal llm that combines a ViT-H image encoder with 378x378px resolution, pretrained on a data mix of image-text documents and text-only documents, scaled up to 3B, 7B, and 30B parameters for enhanced performance across various tasks |
 | [Phi 3 Vision](https://ritvik19.medium.com/papers-explained-130-phi-3-0dfc951dc404#7ba6) | May 2024 | First multimodal model in the Phi family, bringing the ability to reason over images and extract and reason over text from images. |
+| [GPT-4o](https://ritvik19.medium.com/papers-explained-67-gpt-4-fc77069b613e#49a8) | May 2024 | An omni model accepting and generating various types of inputs and outputs, including text, audio, images, and video. |
 | [Gemini 1.5 Flash](https://ritvik19.medium.com/papers-explained-142-gemini-1-5-flash-415e2dc6a989) | May 2024 | A more lightweight variant of the Gemini 1.5 pro, designed for efficiency with minimal regression in quality, making it suitable for applications where compute resources are limited. |
 | [Chameleon](https://ritvik19.medium.com/papers-explained-143-chameleon-6cddfdbceaa8) | May 2024 | A family of early-fusion token-based mixed-modal models capable of understanding and generating images and text in any arbitrary sequence. |
+| [GPT-4o mini](https://ritvik19.medium.com/papers-explained-67-gpt-4-fc77069b613e#17c9) | July 2024 | A cost-efficient small model that outperforms GPT-4 on chat preferences, enabling a broad range of tasks with low latency and supporting text, vision, and multimodal inputs and outputs. |
+
 
 ## Retrieval and Representation Learning
 
