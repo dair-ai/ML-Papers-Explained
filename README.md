@@ -284,6 +284,7 @@ Explanations to key concepts in ML
 | [DSPy](https://ritvik19.medium.com/papers-explained-135-dspy-fe8af7e35091) | October 2023 | A programming model that abstracts LM pipelines as text transformation graphs, i.e. imperative computation graphs where LMs are invoked through declarative modules, optimizing their use through a structured framework of signatures, modules, and teleprompters to automate and enhance text transformation tasks. |
 | [Direct Preference Optimization](https://ritvik19.medium.com/papers-explained-148-direct-preference-optimization-d3e031a41be1) | December 2023 | A stable, performant, and computationally lightweight algorithm that fine-tunes llms to align with human preferences without the need for reinforcement learning, by directly optimizing for the policy best satisfying the preferences with a simple classification objective. |
 | [RLHF Workflow](https://ritvik19.medium.com/papers-explained-149-rlhf-workflow-56b4e00019ed) | May 2024 | Provides a detailed recipe for  online iterative RLHF and achieves state-of-the-art performance on various benchmarks using fully open-source datasets. |
+| [Monte Carlo Tree Self-refine](https://ritvik19.medium.com/papers-explained-167-monte-carlo-tree-self-refine-79bffb070c1a) | June 2024 | Integrates LLMs with Monte Carlo Tree Search to enhance performance in complex mathematical reasoning tasks, leveraging systematic exploration and heuristic self-refine mechanisms to improve decision-making frameworks. |
 
 ---
 
