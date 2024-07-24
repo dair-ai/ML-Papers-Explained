@@ -150,7 +150,9 @@ Explanations to key concepts in ML
 | [E5 Mistral 7B](https://ritvik19.medium.com/papers-explained-91-e5-mistral-7b-23890f40f83a) | December 2023 | Leverages proprietary LLMs to generate diverse synthetic data to fine tune open-source decoder-only LLMs for hundreds of thousands of text embedding tasks. |
 | [Nomic Embed Text v1](https://ritvik19.medium.com/papers-explained-110-nomic-embed-8ccae819dac2) | February 2024 | A 137M parameter, open-source English text embedding model with an 8192 context length that outperforms OpenAI's models on both short and long-context tasks. |
 | [Nomic Embed Text v1.5](https://ritvik19.medium.com/papers-explained-110-nomic-embed-8ccae819dac2#2119) | February 2024 | An advanced text embedding model that utilizes Matryoshka Representation Learning to offer flexible embedding sizes with minimal performance trade-offs |
+| [NV Embed](https://ritvik19.medium.com/papers-explained-168-nv-embed-48bd25d83258) | May 2024 | Introduces architectural innovations and training recipe to significantly enhance LLMs performance in general-purpose text embedding tasks. |
 | [Nomic Embed Vision v1 and v1.5](https://ritvik19.medium.com/papers-explained-110-nomic-embed-8ccae819dac2#486b) | June 2024 | Aligns a Vision Encoder with the existing text encoders without destroying the downstream performance of the text encoder, to attain a unified multimodal latent space. |
+
 
 ## Parameter Efficient Fine Tuning
 
