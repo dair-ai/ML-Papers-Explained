@@ -111,6 +111,7 @@ Explanations to key concepts in ML
 | [Orca 3 (Agent Instruct)](https://ritvik19.medium.com/papers-explained-164-orca-3-agent-instruct-41340505af36) | June 2024 | A fine tuned Mistral-7B through Generative Teaching via synthetic data generated through the proposed AgentInstruct framework, which generates both the prompts and responses, using only raw data sources like text documents and code files as seeds. |
 | [Mathstral](https://medium.com/dair-ai/papers-explained-mistral-7b-b9632dedf580#0fbe) | July 2024 | a 7B model designed for math reasoning and scientific discovery based on Mistral 7B specializing in STEM subjects. |
 | [Mistral Nemo](https://medium.com/dair-ai/papers-explained-mistral-7b-b9632dedf580#37cd) | July 2024 | A 12B Language Model built in collaboration between Mistral and NVIDIA, featuring a context window of 128K, an efficient tokenizer and trained with quantization awareness, enabling FP8 inference without any performance loss. |
+| [Mistral Large 2](https://medium.com/dair-ai/papers-explained-mistral-7b-b9632dedf580#301d) | July 2024 | A 123B model, offers significant improvements in code generation, mathematics, and reasoning capabilities, advanced function calling, a 128k context window, and supports dozens of languages and over 80 coding languages. |
 
 
 ## Multi Modal Language Models
