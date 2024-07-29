@@ -164,6 +164,12 @@ Explanations to key concepts in ML
 | [QLoRA](https://ritvik19.medium.com/papers-explained-146-qlora-a6e7273bc630) | May 2023 | Allows efficient training of large models on limited GPU memory, through innovations like 4-bit NormalFloat (NF4), double quantization and paged optimisers. |
 | [LongLoRA](https://ritvik19.medium.com/papers-explained-147-longlora-24f095b93611) | September 2023 | Enables context extension for large language models, achieving significant computation savings through sparse local attention and parameter-efficient fine-tuning. |
 
+## LLM Evaluation
+
+| Paper | Date | Description |
+|---|---|---|
+| [Prometheus](https://ritvik19.medium.com/papers-explained-170-prometheus-5e72b8054729) | October 2023 | A 13B fully open source evaluation LLM trained on Feedback Collection curated using GPT-4 (in this work). |
+
 ## Compression, Pruning, Quantization
 
 | Paper | Date | Description |
