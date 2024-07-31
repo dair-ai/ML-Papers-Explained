@@ -154,6 +154,8 @@ Explanations to key concepts in ML
 | [Nomic Embed Text v1.5](https://ritvik19.medium.com/papers-explained-110-nomic-embed-8ccae819dac2#2119) | February 2024 | An advanced text embedding model that utilizes Matryoshka Representation Learning to offer flexible embedding sizes with minimal performance trade-offs |
 | [NV Embed](https://ritvik19.medium.com/papers-explained-168-nv-embed-48bd25d83258) | May 2024 | Introduces architectural innovations and training recipe to significantly enhance LLMs performance in general-purpose text embedding tasks. |
 | [Nomic Embed Vision v1 and v1.5](https://ritvik19.medium.com/papers-explained-110-nomic-embed-8ccae819dac2#486b) | June 2024 | Aligns a Vision Encoder with the existing text encoders without destroying the downstream performance of the text encoder, to attain a unified multimodal latent space. |
+| [E5-V](https://ritvik19.medium.com/papers-explained-172-e5-v-9947d3925802) | July 2024 | A framework that adapts Multimodal Large Language Models for achieving universal multimodal embeddings by leveraging prompts and single modality training on text pairs, which demonstrates strong performance in multimodal embeddings without fine-tuning and eliminates the need for costly multimodal training data collection. |
+
 
 
 ## Parameter Efficient Fine Tuning
