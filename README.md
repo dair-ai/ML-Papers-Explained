@@ -287,6 +287,7 @@ Explanations to key concepts in ML
 |---|---|---|
 | [Dolma](https://ritvik19.medium.com/papers-explained-97-dolma-a656169269cb) | January 2024 | An open corpus of three trillion tokens designed to support language model pretraining research. |
 | [Aya Dataset](https://ritvik19.medium.com/papers-explained-108-aya-dataset-9e299ac74a19) | Februray 2024 | A human-curated instruction-following dataset that spans 65 languages, created to bridge the language gap in datasets for natural language processing. |
+| [Fine Web](https://ritvik19.medium.com/papers-explained-174-fineweb-280bbc08068b) | May 2024 | A large-scale dataset for pretraining LLMs, consisting of 15T tokens, shown to produce better-performing models than other open pretraining datasets. |
 
 ## Miscellaneous
 
