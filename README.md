@@ -126,6 +126,7 @@ Explanations to key concepts in ML
 | [BLIP 2](https://ritvik19.medium.com/papers-explained-155-blip-2-135fff70bf65) | January 2023 | A Vision-Language Pre-training (VLP) framework that proposes Q-Former, a trainable module to bridge the gap between a frozen image encoder and a frozen LLM to bootstrap vision-language pre-training. |
 | [LLaVA 1](https://ritvik19.medium.com/papers-explained-102-llava-1-eb0a3db7e43c) | April 2023 | A large multimodal model connecting CLIP and Vicuna trained end-to-end on instruction-following data generated through GPT-4 from image-text pairs. |
 | [InstructBLIP](https://ritvik19.medium.com/papers-explained-156-instructblip-c3cf3291a823) | May 2023 | Introduces instruction-aware Query Transformer to extract informative features tailored to the given instruction to study vision-language instruction tuning based on the pretrained BLIP-2 models. |
+| [Idefics](https://ritvik19.medium.com/papers-explained-179-obelics-idefics-a581f8d909b6) | June 2023 | 9B and 80B multimodal models trained on Obelics, an open web-scale dataset of interleaved image-text documents, curated in this work. |
 | [GPT-4V](https://ritvik19.medium.com/papers-explained-68-gpt-4v-6e27c8a1d6ea) | September 2023 | A multimodal model that combines text and vision capabilities, allowing users to instruct it to analyze image inputs. |
 | [LLaVA 1.5](https://ritvik19.medium.com/papers-explained-103-llava-1-5-ddcb2e7f95b4) | October 2023 | An enhanced version of the LLaVA model that incorporates a CLIP-ViT-L-336px with an MLP projection and academic-task-oriented VQA data to set new benchmarks in large multimodal models (LMM) research. |
 | [Gemini 1.0](https://ritvik19.medium.com/papers-explained-80-gemini-1-0-97308ef96fcd) | December 2023 | A family of highly capable multi-modal models, trained jointly across image, audio, video, and text data for the purpose of building a model with strong generalist capabilities across modalities. |
@@ -286,6 +287,7 @@ Explanations to key concepts in ML
 
 | Paper | Date | Description |
 |---|---|---|
+| [Obelics](https://ritvik19.medium.com/papers-explained-179-obelics-idefics-a581f8d909b6) | June 2023 | An open web-scale filtered dataset of interleaved image-text documents comprising 141M web pages, 353M associated images, and 115B text tokens, extracted from CommonCrawl |
 | [Dolma](https://ritvik19.medium.com/papers-explained-97-dolma-a656169269cb) | January 2024 | An open corpus of three trillion tokens designed to support language model pretraining research. |
 | [Aya Dataset](https://ritvik19.medium.com/papers-explained-108-aya-dataset-9e299ac74a19) | Februray 2024 | A human-curated instruction-following dataset that spans 65 languages, created to bridge the language gap in datasets for natural language processing. |
 | [WebSight](https://ritvik19.medium.com/papers-explained-177-websight-2905d0e14233) | March 2024 | A synthetic dataset consisting of 2M pairs of HTML codes and their corresponding screenshots, generated through LLMs, aimed to accelerate research for converting a screenshot into a corresponding HTML. |
