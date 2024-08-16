@@ -119,6 +119,7 @@ Explanations to key concepts in ML
 | [Mistral Nemo](https://medium.com/dair-ai/papers-explained-mistral-7b-b9632dedf580#37cd) | July 2024 | A 12B Language Model built in collaboration between Mistral and NVIDIA, featuring a context window of 128K, an efficient tokenizer and trained with quantization awareness, enabling FP8 inference without any performance loss. |
 | [Smol LM](https://ritvik19.medium.com/papers-explained-176-smol-lm-a166d5f1facc) | July 2024 | A family of small models with 135M, 360M, and 1.7B parameters, utilizes Grouped-Query Attention (GQA), embedding tying, and a context length of 2048 tokens, trained on a new open source high-quality dataset. |
 | [Llama 3.1](https://ritvik19.medium.com/papers-explained-187b-llama-3-1-f0fb06898c59) | July 2024 | A family of multilingual language models ranging from 8B to 405B parameters, trained on a massive dataset of 15T tokens and achieving comparable performance to leading models like GPT-4 on various tasks. |
+| [Llama 3.1 - Multimodal Experiments](https://ritvik19.medium.com/papers-explained-187c-llama-3-1-multimodal-experiments-a1940dd45575) | July 2024 | Additional experiments of adding multimodal capabilities to Llama3. |
 | [Mistral Large 2](https://ritvik19.medium.com/papers-explained-mistral-7b-b9632dedf580#301d) | July 2024 | A 123B model, offers significant improvements in code generation, mathematics, and reasoning capabilities, advanced function calling, a 128k context window, and supports dozens of languages and over 80 coding languages. |
 
 
