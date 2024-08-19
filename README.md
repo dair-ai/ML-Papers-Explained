@@ -121,6 +121,7 @@ Explanations to key concepts in ML
 | [Llama 3.1](https://ritvik19.medium.com/papers-explained-187b-llama-3-1-f0fb06898c59) | July 2024 | A family of multilingual language models ranging from 8B to 405B parameters, trained on a massive dataset of 15T tokens and achieving comparable performance to leading models like GPT-4 on various tasks. |
 | [Llama 3.1 - Multimodal Experiments](https://ritvik19.medium.com/papers-explained-187c-llama-3-1-multimodal-experiments-a1940dd45575) | July 2024 | Additional experiments of adding multimodal capabilities to Llama3. |
 | [Mistral Large 2](https://ritvik19.medium.com/papers-explained-mistral-7b-b9632dedf580#301d) | July 2024 | A 123B model, offers significant improvements in code generation, mathematics, and reasoning capabilities, advanced function calling, a 128k context window, and supports dozens of languages and over 80 coding languages. |
+| [Hermes 3](https://ritvik19.medium.com/papers-explained-188-hermes-3-67d36cfe07d8) | August 2024 | Neutrally generalist instruct and tool use models, created by fine-tuning Llama 3.1 models with strong reasoning and creative abilities, and are designed to follow prompts neutrally without moral judgment or personal opinions. |
 
 
 ## Multi Modal Language Models
