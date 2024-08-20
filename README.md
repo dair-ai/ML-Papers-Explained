@@ -322,6 +322,8 @@ Explanations to key concepts in ML
 | [Monte Carlo Tree Self-refine](https://ritvik19.medium.com/papers-explained-167-monte-carlo-tree-self-refine-79bffb070c1a) | June 2024 | Integrates LLMs with Monte Carlo Tree Search to enhance performance in complex mathematical reasoning tasks, leveraging systematic exploration and heuristic self-refine mechanisms to improve decision-making frameworks. |
 | [Magpie](https://ritvik19.medium.com/papers-explained-183-magpie-0603cbdc69c3) | June 2024 | A self-synthesis method that extracts high-quality instruction data at scale by prompting an aligned LLM with left-side templates, generating 4M instructions and their corresponding responses. |
 | [Instruction Pre-Training](https://ritvik19.medium.com/papers-explained-184-instruction-pretraining-ee0466f0fd33) | June 2024 | A framework to augment massive raw corpora with instruction-response pairs enabling supervised multitask pretraining of LMs. |
+| [Proofread](https://ritvik19.medium.com/papers-explained-189-proofread-4e1fe4eccf01) | June 2024 | A Gboard feature powered by a server-side LLM, enabling seamless sentence-level and paragraph-level corrections with a single tap. |
+
 
 ---
 
