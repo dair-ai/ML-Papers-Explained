@@ -151,7 +151,7 @@ Explanations to key concepts in ML
 | [Claude 3.5 Sonnet](https://ritvik19.medium.com/papers-explained-181-claude-89dd45e35d92#2a14) | June 2024 | Surpasses previous versions and competitors in intelligence, speed, and cost-efficiency, excelling in graduate-level reasoning, undergraduate-level knowledge, coding proficiency, and visual reasoning. |
 | [GPT-4o mini](https://ritvik19.medium.com/papers-explained-185-gpt-4o-a234bccfd662#08b9) | July 2024 | A cost-efficient small model that outperforms GPT-4 on chat preferences, enabling a broad range of tasks with low latency and supporting text, vision, and multimodal inputs and outputs. |
 | [Grok 2](https://ritvik19.medium.com/papers-explained-186-grok-0d9f1aef69be) | August 2024 | A frontier language model with state-of-the-art capabilities in chat, coding, and reasoning on par with Claude 3.5 Sonnet and GPT-4-Turbo. |
-
+| [BLIP-3 (xGen-MM)](https://ritvik19.medium.com/papers-explained-190-blip-3-xgen-mm-6a9c04a3892d) | August 2024 | A comprehensive system for developing Large Multimodal Models, comprising curated datasets, training recipes, model architectures, and pre-trained models that demonstrate strong in-context learning capabilities and competitive performance on various tasks. |
 
 ## Retrieval and Representation Learning
 
@@ -346,6 +346,7 @@ Explanations to key concepts in ML
 - [Gemini / Gemma Models](https://ritvik19.medium.com/list/gemini-gemma-models-4cb7dfc50d42)
 - [Wizard Models](https://ritvik19.medium.com/list/wizard-models-9b972e860683)
 - [Orca Series](https://ritvik19.medium.com/list/orca-series-1c87367458fe)
+- [BLIP Series](https://ritvik19.medium.com/list/blip-series-4b0831017c5b)
 - [LLM Lingua Series](https://ritvik19.medium.com/list/llm-lingua-series-2f61b47d0343)
 - [Multi Task Language Models](https://ritvik19.medium.com/list/multi-task-language-models-e6a2a1e517e6)
 - [Layout Aware Transformers](https://ritvik19.medium.com/list/layout-transformers-1ce4f291a9f0)
