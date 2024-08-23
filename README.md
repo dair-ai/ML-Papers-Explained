@@ -123,6 +123,7 @@ Explanations to key concepts in ML
 | [Mistral Large 2](https://ritvik19.medium.com/papers-explained-mistral-7b-b9632dedf580#301d) | July 2024 | A 123B model, offers significant improvements in code generation, mathematics, and reasoning capabilities, advanced function calling, a 128k context window, and supports dozens of languages and over 80 coding languages. |
 | [Hermes 3](https://ritvik19.medium.com/papers-explained-188-hermes-3-67d36cfe07d8) | August 2024 | Neutrally generalist instruct and tool use models, created by fine-tuning Llama 3.1 models with strong reasoning and creative abilities, and are designed to follow prompts neutrally without moral judgment or personal opinions. |
 | [Smol Lm v0.2](https://ritvik19.medium.com/papers-explained-176-smol-lm-a166d5f1facc#fdb2) | August 2024 | An advancement over SmolLM, better at staying on topic and responding appropriately to standard prompts, such as greetings and questions about their role as AI assistants. |
+| [Phi-3.5](https://ritvik19.medium.com/papers-explained-192-phi-3-5-a95429ea26c9) | August 2024 |  A family of models consisting of three variants - MoE (16x3.8B), mini (3.8B), and vision (4.2B) - which are lightweight, multilingual, and trained on synthetic and filtered publicly available documents - with a focus on very high-quality, reasoning dense data. |
 
 
 ## Multi Modal Language Models
