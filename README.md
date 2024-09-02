@@ -165,6 +165,7 @@ Explanations to key concepts in ML
 
 | Paper | Date | Description |
 |---|---|---|
+| [SimCLR](https://ritvik19.medium.com/papers-explained-200-simclr-191ecf19d2fc) | February 2020 |  A simplified framework for contrastive learning that optimizes data augmentation composition, introduces learnable nonlinear transformations, and leverages larger batch sizes and more training steps. |
 | [Dense Passage Retriever](https://ritvik19.medium.com/papers-explained-86-dense-passage-retriever-c4742fdf27ed) | April 2020 | Shows that retrieval can be practically implemented using dense representations alone, where embeddings are learned from a small number of questions and passages by a simple dual encoder framework. |
 | [ColBERT](https://medium.com/@ritvik19/papers-explained-88-colbert-fe2fd0509649) | April 2020 | Introduces a late interaction architecture that adapts deep LMs (in particular, BERT) for efficient retrieval. |
 | [CLIP](https://ritvik19.medium.com/papers-explained-100-clip-f9873c65134) | February 2021 | A vision system that learns image representations from raw text-image pairs through pre-training, enabling zero-shot transfer to various downstream tasks. |
