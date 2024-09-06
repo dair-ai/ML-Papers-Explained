@@ -183,6 +183,7 @@ Explanations to key concepts in ML
 | [Nomic Embed Vision v1 and v1.5](https://ritvik19.medium.com/papers-explained-110-nomic-embed-8ccae819dac2#486b) | June 2024 | Aligns a Vision Encoder with the existing text encoders without destroying the downstream performance of the text encoder, to attain a unified multimodal latent space. |
 | [ColPali](https://ritvik19.medium.com/papers-explained-198-colpali-b3be70cbe252) | June 2024 | A retrieval model based on PaliGemma to produce high-quality contextualized embeddings solely from images of document pages, and employees late interaction allowing for efficient and effective visually rich document retrieval. |
 | [E5-V](https://ritvik19.medium.com/papers-explained-172-e5-v-9947d3925802) | July 2024 | A framework that adapts Multimodal Large Language Models for achieving universal multimodal embeddings by leveraging prompts and single modality training on text pairs, which demonstrates strong performance in multimodal embeddings without fine-tuning and eliminates the need for costly multimodal training data collection. |
+| [Matryoshka Adaptor](https://ritvik19.medium.com/papers-explained-204-matryoshka-adaptor-c22f76488959) | July 2024 | A framework designed for the customization of LLM embeddings, facilitating substantial dimensionality reduction while maintaining comparable performance levels.  |
 
 
 
