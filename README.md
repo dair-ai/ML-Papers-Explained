@@ -226,6 +226,7 @@ Explanations to key concepts in ML
 | [BEiT](https://ritvik19.medium.com/papers-explained-27-beit-b8c225496c01) | June 2021 | Utilizes a masked image modeling task inspired by BERT in, involving image patches and visual tokens to pretrain vision Transformers. |
 | [MobileViT](https://ritvik19.medium.com/papers-explained-40-mobilevit-4793f149c434) | October 2021 | A lightweight vision transformer designed for mobile devices, effectively combining the strengths of CNNs and ViTs. |
 | [Masked AutoEncoder](https://ritvik19.medium.com/papers-explained-28-masked-autoencoder-38cb0dbed4af) | November 2021 | An encoder-decoder architecture that reconstructs input images by masking random patches and leveraging a high proportion of masking for self-supervision. |
+| [MaxViT](https://ritvik19.medium.com/papers-explained-210-maxvit-6c68cc515413) | April 2022 | Introduces multi-axis attention, allowing global-local spatial interactions on arbitrary input resolutions with only linear complexity. |
 
 ## Convolutional Neural Networks
 
