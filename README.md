@@ -129,6 +129,8 @@ Explanations to key concepts in ML
 | [Smol Lm v0.2](https://ritvik19.medium.com/papers-explained-176-smol-lm-a166d5f1facc#fdb2) | August 2024 | An advancement over SmolLM, better at staying on topic and responding appropriately to standard prompts, such as greetings and questions about their role as AI assistants. |
 | [Phi-3.5](https://ritvik19.medium.com/papers-explained-192-phi-3-5-a95429ea26c9) | August 2024 |  A family of models consisting of three variants - MoE (16x3.8B), mini (3.8B), and vision (4.2B) - which are lightweight, multilingual, and trained on synthetic and filtered publicly available documents - with a focus on very high-quality, reasoning dense data. |
 | [Minitron Approach in Practice](https://ritvik19.medium.com/papers-explained-209-minitron-approach-in-practice-6b473f67328d) | August 2024 | Applies the minitron approach to Llama 3.1 8B and Mistral-Nemo 12B, additionally applies teacher correction to align with the new data distribution. |
+| [o1](https://ritvik19.medium.com/papers-explained-211-o1-163fd9c7308e) | September 2024 | A large language model trained with reinforcement learning to think before answering, producing a long internal chain of thought before responding. | 
+| [o1-mini](https://ritvik19.medium.com/papers-explained-211-o1-163fd9c7308ee#f16a) | September 2024 | A cost-efficient reasoning model, excelling at STEM, especially math and coding ,  nearly matching the performance of OpenAI o1 on evaluation benchmarks. | 
 
 
 ## Multi Modal Language Models
