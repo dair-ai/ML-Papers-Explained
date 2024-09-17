@@ -131,6 +131,7 @@ Explanations to key concepts in ML
 | [Minitron Approach in Practice](https://ritvik19.medium.com/papers-explained-209-minitron-approach-in-practice-6b473f67328d) | August 2024 | Applies the minitron approach to Llama 3.1 8B and Mistral-Nemo 12B, additionally applies teacher correction to align with the new data distribution. |
 | [o1](https://ritvik19.medium.com/papers-explained-211-o1-163fd9c7308e) | September 2024 | A large language model trained with reinforcement learning to think before answering, producing a long internal chain of thought before responding. | 
 | [o1-mini](https://ritvik19.medium.com/papers-explained-211-o1-163fd9c7308ee#f16a) | September 2024 | A cost-efficient reasoning model, excelling at STEM, especially math and coding ,  nearly matching the performance of OpenAI o1 on evaluation benchmarks. | 
+| [DataGemma](https://ritvik19.medium.com/papers-explained-212-datagemma-cf0d2f40d867) | September 2024 | A set of models that aims to reduce hallucinations in LLMs by grounding them in the factual data of Google's Data Commons, allowing users to ask questions in natural language and receive responses based on verified information from trusted sources. |
 
 
 ## Multi Modal Language Models
