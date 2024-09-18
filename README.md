@@ -138,6 +138,7 @@ Explanations to key concepts in ML
 
 | Paper | Date | Description |
 |---|---|---|
+| [Florence](https://ritvik19.medium.com/papers-explained-213-florence-f93a3a7d9ef0) | November 2021 | A computer vision foundation model that can be adapted to various tasks by expanding representations from coarse (scene) to fine (object), static (images) to dynamic (videos), and RGB to multiple modalities. |
 | [BLIP](https://ritvik19.medium.com/papers-explained-154-blip-6d85c80a744d) | February 2022 | A Vision-Language Pre-training (VLP) framework that introduces Multimodal mixture of Encoder-Decoder (MED) and Captioning and Filtering (CapFilt), a new dataset bootstrapping method for learning from noisy image-text pairs. |
 | [Flamingo](https://ritvik19.medium.com/papers-explained-82-flamingo-8c124c394cdb) | April 2022 | Visual Language Models enabling seamless handling of interleaved visual and textual data, and facilitating few-shot learning on large-scale web corpora. |
 | [PaLI](https://ritvik19.medium.com/papers-explained-194-pali-c1fffc14068c) | September 2022 | A joint language-vision model that generates multilingual text based on visual and textual inputs, trained using large pre-trained encoder-decoder language models and Vision Transformers, specifically mT5 and ViT-e. |
