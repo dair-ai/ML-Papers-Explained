@@ -172,6 +172,7 @@ Explanations to key concepts in ML
 | [GPT-4o mini](https://ritvik19.medium.com/papers-explained-185-gpt-4o-a234bccfd662#08b9) | July 2024 | A cost-efficient small model that outperforms GPT-4 on chat preferences, enabling a broad range of tasks with low latency and supporting text, vision, and multimodal inputs and outputs. |
 | [Grok 2](https://ritvik19.medium.com/papers-explained-186-grok-0d9f1aef69be) | August 2024 | A frontier language model with state-of-the-art capabilities in chat, coding, and reasoning on par with Claude 3.5 Sonnet and GPT-4-Turbo. |
 | [BLIP-3 (xGen-MM)](https://ritvik19.medium.com/papers-explained-190-blip-3-xgen-mm-6a9c04a3892d) | August 2024 | A comprehensive system for developing Large Multimodal Models, comprising curated datasets, training recipes, model architectures, and pre-trained models that demonstrate strong in-context learning capabilities and competitive performance on various tasks. |
+| [Idefics 3](https://ritvik19.medium.com/papers-explained-218-idefics-3-81791c4cde3f) | August 2024 | A VLM based on Llama 3.1 and SigLIP-SO400M trained efficiently, using only open datasets and a straightforward pipeline, significantly outperforming in document understanding tasks. |
 
 ## Retrieval and Representation Learning
 
