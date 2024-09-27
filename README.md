@@ -238,6 +238,7 @@ Explanations to key concepts in ML
 | [Masked AutoEncoder](https://ritvik19.medium.com/papers-explained-28-masked-autoencoder-38cb0dbed4af) | November 2021 | An encoder-decoder architecture that reconstructs input images by masking random patches and leveraging a high proportion of masking for self-supervision. |
 | [MaxViT](https://ritvik19.medium.com/papers-explained-210-maxvit-6c68cc515413) | April 2022 | Introduces multi-axis attention, allowing global-local spatial interactions on arbitrary input resolutions with only linear complexity. |
 | [Swin Transformer V2](https://ritvik19.medium.com/papers-explained-215-swin-transformer-v2-53bee16ab668) | April 2022 | A successor to Swin Transformer, addressing challenges like training stability, resolution gaps, and labeled data scarcity. |
+| [EfficientFormer](https://ritvik19.medium.com/papers-explained-220-efficientformer-97c91540af19) | June 2022 | Revisits the design principles of ViT and its variants through latency analysis and identifies inefficient designs and operators in ViT to propose a new dimension consistent design paradigm for vision transformers and a simple yet effective latency-driven slimming method to optimize for inference speed. |
 
 
 ## Convolutional Neural Networks
