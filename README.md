@@ -138,6 +138,7 @@ Explanations to key concepts in ML
 | [Llama 3.1-Nemotron-51B](https://ritvik19.medium.com/papers-explained-209-minitron-approach-in-practice-6b473f67328d#5df9) | September 2024 | Uses knowledge distillation and NAS to optimize various constraints, resulting in a model that achieves 2.2x faster inference compared to the reference model while maintaining nearly the same accuracy, with an irregular block structure that reduces or prunes attention and FFN layers for better utilization of H100 and improved LLMs for inference. |
 | [DataGemma](https://ritvik19.medium.com/papers-explained-212-datagemma-cf0d2f40d867) | September 2024 | A set of models that aims to reduce hallucinations in LLMs by grounding them in the factual data of Google's Data Commons, allowing users to ask questions in natural language and receive responses based on verified information from trusted sources. |
 | [Mistral Small](https://medium.com/dair-ai/papers-explained-mistral-7b-b9632dedf580#5662) | September 2024 | A 22B model with significant improvements in human alignment, reasoning capabilities, and code over the previous model. |
+| [Llama 3.2](https://ritvik19.medium.com/papers-explained-187d-llama-3-2-e517fa1f2528) | September 2024 | Small and medium-sized vision LLMs (11B and 90B), and lightweight, text-only models (1B and 3B). |
 
 
 ## Multi Modal Language Models
