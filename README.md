@@ -367,6 +367,7 @@ Explanations to key concepts in ML
 | [Proofread](https://ritvik19.medium.com/papers-explained-189-proofread-4e1fe4eccf01) | June 2024 | A Gboard feature powered by a server-side LLM, enabling seamless sentence-level and paragraph-level corrections with a single tap. |
 | [CriticGPT](https://ritvik19.medium.com/papers-explained-224-criticgpt-6d9af57451fa) | June 2024 | A model based on GPT-4 trained with RLHF to catch errors in ChatGPT's code output, accepts a question-answer pair as input and outputs a structured critique that highlights potential problems in the answer.  |
 | [Reader-LM](https://ritvik19.medium.com/papers-explained-221-reader-lm-7382b9eb6ed9) | September 2024 | Small multilingual models specifically trained to generate clean markdown directly from noisy raw HTML, with a context length of up to 256K tokens. | 
+| [Direct Judgement Preference Optimization](https://ritvik19.medium.com/papers-explained-228-direct-judgement-preference-optimization-6915425402bf) | September 2024 | Proposes learning through preference optimization to enhance the evaluation capabilities of LLM judges which are trained on three approaches: Chain-of-Thought Critique, Standard Judgement, and Response Deduction across various use cases, including single rating, pairwise comparison, and classification. |
 
 
 ---
