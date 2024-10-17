@@ -271,6 +271,7 @@ Explanations to key concepts in ML
 | [Conv Mixer](https://ritvik19.medium.com/papers-explained-29-convmixer-f073f0356526) | January 2022 | Processes image patches using standard convolutions for mixing spatial and channel dimensions. |
 | [ConvNeXt](https://ritvik19.medium.com/papers-explained-92-convnext-d13385d9177d) | January 2022 | A pure ConvNet model, evolved from standard ResNet design, that competes well with Transformers in accuracy and scalability. |
 | [ConvNeXt V2](https://ritvik19.medium.com/papers-explained-94-convnext-v2-2ecdabf2081c) | January 2023 | Incorporates a fully convolutional MAE framework and a Global Response Normalization (GRN) layer, boosting performance across multiple benchmarks. |
+| [Efficient Net V2](https://ritvik19.medium.com/papers-explained-efficientnetv2-a7a1e4113b89) | April 2024 | A new family of convolutional networks, achieves faster training speed and better parameter efficiency than previous models through neural architecture search and scaling, with progressive learning allowing for improved accuracy on various datasets while training up to 11x faster. |
 | [MobileNetV4](https://ritvik19.medium.com/papers-explained-232-mobilenetv4-83a526887c30) | April 2024 | Features a universally efficient architecture design, including the Universal Inverted Bottleneck (UIB) search block, Mobile MQA attention block, and an optimized neural architecture search recipe, which enables it to achieve high accuracy and efficiency on various mobile devices and accelerators. |
 
 ## Object Detection
