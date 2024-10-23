@@ -287,6 +287,7 @@ Explanations to key concepts in ML
 | [Feature Pyramid Network](https://ritvik19.medium.com/papers-explained-21-feature-pyramid-network-6baebcb7e4b8) | December 2016 | Leverages the inherent multi-scale hierarchy of deep convolutional networks to efficiently construct feature pyramids. |
 | [Focal Loss](https://ritvik19.medium.com/papers-explained-22-focal-loss-for-dense-object-detection-retinanet-733b70ce0cb1) | August 2017 | Addresses class imbalance in dense object detectors by down-weighting the loss assigned to well-classified examples. |
 | [DETR](https://ritvik19.medium.com/papers-explained-79-detr-bcdd53355d9f) | May 2020 | A novel object detection model that treats object detection as a set prediction problem, eliminating the need for hand-designed components. |
+| [OWL ViT](https://ritvik19.medium.com/papers-explained-237-owl-vit-ea58a142de68) | May 2022 | Employs Vision Transformers, CLIP-based contrastive pre-training, and bipartite matching loss for open-vocabulary detection, utilizing image-level pre-training, multihead attention pooling, and mosaic image augmentation. |
 
 ## Region-based Convolutional Neural Networks
 
