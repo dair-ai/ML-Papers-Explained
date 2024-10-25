@@ -289,6 +289,7 @@ Explanations to key concepts in ML
 | [DETR](https://ritvik19.medium.com/papers-explained-79-detr-bcdd53355d9f) | May 2020 | A novel object detection model that treats object detection as a set prediction problem, eliminating the need for hand-designed components. |
 | [OWL ViT](https://ritvik19.medium.com/papers-explained-237-owl-vit-ea58a142de68) | May 2022 | Employs Vision Transformers, CLIP-based contrastive pre-training, and bipartite matching loss for open-vocabulary detection, utilizing image-level pre-training, multihead attention pooling, and mosaic image augmentation. |
 | [Segment Anything Model](https://ritvik19.medium.com/papers-explained-238-segment-anything-model-b3960b569fce) | April 2023 | Introduces a novel image segmentation task, model, and dataset, aiming to enable prompt-able, zero-shot transfer learning in computer vision. | 
+| [SAM 2](https://ritvik19.medium.com/papers-explained-239-sam-2-6ffb7f187281) | July 2024 | A foundation model towards solving promptable visual segmentation in images and videos based on a simple transformer architecture with streaming memory for real-time video processing. |
 
 ## Region-based Convolutional Neural Networks
 
