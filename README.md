@@ -183,6 +183,7 @@ Explanations to key concepts in ML
 | [Idefics 3](https://ritvik19.medium.com/papers-explained-218-idefics-3-81791c4cde3f) | August 2024 | A VLM based on Llama 3.1 and SigLIP-SO400M trained efficiently, using only open datasets and a straightforward pipeline, significantly outperforming in document understanding tasks. |
 | [CogVLM2](https://ritvik19.medium.com/papers-explained-236-cogvlm2-db0261745cf5) | August 2023 | A family of visual language models that enables image and video understanding with improved training recipes, exploring enhanced vision-language fusion, higher input resolution, and broader modalities and applications. |
 | [Pixtral](https://ritvik19.medium.com/papers-explained-219-pixtral-a714f94e59ac) | September 2024 | A 12B parameter natively multimodal vision-language model, trained with interleaved image and text data demonstrating strong performance on multimodal tasks, and excels in instruction following. |
+| [NVLM](https://ritvik19.medium.com/papers-explained-240-nvlm-7ad201bfbfc2) | September 2024 | A family of multimodal large language models, provides a comparison between decoder-only multimodal LLMs and cross-attention based models and proposes a hybrid architecture, it further introduces a 1-D title-tagging design for tile-based dynamic high resolution images. |
 | [Claude 3.5 Haiku](https://ritvik19.medium.com/papers-explained-181-claude-89dd45e35d92#9637) | October 2024 | A fast and affordable language model that excels in tasks such as coding, reasoning, and content creation. |
 
 ## Retrieval and Representation Learning
