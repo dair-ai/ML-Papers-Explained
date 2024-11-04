@@ -218,8 +218,16 @@ Explanations to key concepts in ML
 | Paper | Date | Description |
 |---|---|---|
 | [LoRA](https://ritvik19.medium.com/papers-explained-lora-a48359cecbfa) | July 2021 | Introduces trainable rank decomposition matrices into each layer of a pre-trained Transformer model, significantly reducing the number of trainable parameters for downstream tasks. |
-| [QLoRA](https://ritvik19.medium.com/papers-explained-146-qlora-a6e7273bc630) | May 2023 | Allows efficient training of large models on limited GPU memory, through innovations like 4-bit NormalFloat (NF4), double quantization and paged optimisers. |
+| [DyLoRA](https://ritvik19.medium.com/papers-explained-review-06-parameter-efficient-finetuning-6934fafa74e5#7fb6) | October 2022 | Allows for flexible rank size by randomly truncating low-rank matrices during training, enabling adaptation to different rank values without retraining. |
+| [AdaLoRA](https://ritvik19.medium.com/papers-explained-review-06-parameter-efficient-finetuning-6934fafa74e5#620f) | March 2023 | Dynamically allocates a parameter budget based on an importance metric to prune less important singular values during training. |
+| [QLoRA](https://ritvik19.medium.com/papers-explained-146-qlora-a6e7273bc630) | May 2023 | Allows efficient training of large models on limited GPU memory, through innovations like 4-bit NormalFloat (NF4), double quantization, and paged optimizers. |
+| [LoRA-FA](https://ritvik19.medium.com/papers-explained-review-06-parameter-efficient-finetuning-6934fafa74e5#c229) | August 2023 | Freezes one of the low-rank matrices and only trains a scaling vector for the other, further reducing the number of trainable parameters compared to standard LoRA. |
+| [Delta-LoRA](https://ritvik19.medium.com/papers-explained-review-06-parameter-efficient-finetuning-6934fafa74e5#a4ec) | September 2023 | Utilizes the delta of the low-rank matrix updates to refine the pre-trained weights directly, removing the Dropout layer for accurate backpropagation. |
 | [LongLoRA](https://ritvik19.medium.com/papers-explained-147-longlora-24f095b93611) | September 2023 | Enables context extension for large language models, achieving significant computation savings through sparse local attention and parameter-efficient fine-tuning. |
+| [VeRA](https://ritvik19.medium.com/papers-explained-review-06-parameter-efficient-finetuning-6934fafa74e5#5bb3) | October 2023 | Utilizes frozen, shared random matrices across all layers and trains scaling vectors to adapt those matrices for each layer, reducing the number of trainable parameters compared to LoRA. |
+| [LoRA+](https://ritvik19.medium.com/papers-explained-review-06-parameter-efficient-finetuning-6934fafa74e5#fd31) | February 2024 | Enhances LoRA by setting different learning rates for the A and B matrices based on a fixed ratio, promoting better feature learning and improved performance. |
+| [MoRA](https://ritvik19.medium.com/papers-explained-review-06-parameter-efficient-finetuning-6934fafa74e5#21a4) | May 2024 | Introduces a square matrix and non-parameterized operators to achieve high-rank updating with the same number of trainable parameters as LoRA, improving knowledge memorization capabilities. |
+| [DoRA](https://ritvik19.medium.com/papers-explained-review-06-parameter-efficient-finetuning-6934fafa74e5#028e) | May 2024 | Decomposes the high-rank LoRA matrix into multiple single-rank components, allowing dynamic pruning of less important components during training for a more efficient parameter budget allocation. |
 
 ## LLM Evaluation
 
@@ -398,6 +406,7 @@ Explanations to key concepts in ML
 - [Region-based Convolutional Neural Networks](https://medium.com/dair-ai/papers-explained-review-03-rcnns-42c0a3974493)
 - [Tabular Deep Learning](https://medium.com/dair-ai/papers-explained-review-04-tabular-deep-learning-776db04f965b)
 - [Generative Adversarial Networks](https://ritvik19.medium.com/papers-explained-review-05-generative-adversarial-networks-bbb51b160d5e)
+- [Parameter Efficient Fine Tuning](https://ritvik19.medium.com/papers-explained-review-06-parameter-efficient-finetuning-6934fafa74e5)
 
 ## Reading Lists
 - [Language Models](https://ritvik19.medium.com/list/language-models-11b008ddc292)
