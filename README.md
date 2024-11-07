@@ -317,6 +317,7 @@ Explanations to key concepts in ML
 |---|---|---|
 | [Table Net](https://ritvik19.medium.com/papers-explained-18-tablenet-3d4c62269bb3) | January 2020 | An end-to-end deep learning model designed for both table detection and structure recognition. |
 | [Layout Parser](https://ritvik19.medium.com/papers-explained-245-layout-parser-d29bb291890c) | March 2021 | A library integrating Detectron2, CNN-RNN OCR, layout structures, TensorFlow/PyTorch, and a Model Zoo. The toolkit features Tesseract, Google Cloud Vision for OCR, active learning tools and community platform ensures efficiency and adaptability. |
+| [Layout Reader](https://ritvik19.medium.com/papers-explained-247-layout-reader-248b27db1234) | August 2021 | A seq2seq model that accurately predicts reading order, text, and layout information from document images. |
 | [Donut](https://ritvik19.medium.com/papers-explained-20-donut-cb1523bf3281) | November 2021 | An OCR-free Encoder-Decoder Transformer model. The encoder takes in images, decoder takes in prompts & encoded images to generate the required text. |
 | [DiT](https://ritvik19.medium.com/papers-explained-19-dit-b6d6eccd8c4e) | March 2022 | An Image Transformer pre-trained (self-supervised) on document images |
 | [UDoP](https://ritvik19.medium.com/papers-explained-42-udop-719732358ab4) | December 2022 | Integrates text, image, and layout information through a Vision-Text-Layout Transformer, enabling unified representation. |
