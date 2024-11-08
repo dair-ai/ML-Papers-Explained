@@ -321,6 +321,7 @@ Explanations to key concepts in ML
 | [Donut](https://ritvik19.medium.com/papers-explained-20-donut-cb1523bf3281) | November 2021 | An OCR-free Encoder-Decoder Transformer model. The encoder takes in images, decoder takes in prompts & encoded images to generate the required text. |
 | [DiT](https://ritvik19.medium.com/papers-explained-19-dit-b6d6eccd8c4e) | March 2022 | An Image Transformer pre-trained (self-supervised) on document images |
 | [UDoP](https://ritvik19.medium.com/papers-explained-42-udop-719732358ab4) | December 2022 | Integrates text, image, and layout information through a Vision-Text-Layout Transformer, enabling unified representation. |
+| [LMDX](https://ritvik19.medium.com/papers-explained-248-lmdx-854c0bc771f0) | September 2023 |  A methodology to adapt arbitrary LLMs for document information extraction. |
 | [DocLLM](https://ritvik19.medium.com/papers-explained-87-docllm-93c188edfaef) | January 2024 | A lightweight extension to traditional LLMs that focuses on reasoning over visual documents, by incorporating textual semantics and spatial layout without expensive image encoders. |
 
 ## Layout Transformers
