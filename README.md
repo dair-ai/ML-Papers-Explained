@@ -143,6 +143,7 @@ Explanations to key concepts in ML
 | [Llama 3.2](https://ritvik19.medium.com/papers-explained-187d-llama-3-2-e517fa1f2528) | September 2024 | Small and medium-sized vision LLMs (11B and 90B), and lightweight, text-only models (1B and 3B). |
 | [Ministral](https://ritvik19.medium.com/papers-explained-mistral-7b-b9632dedf580#1f34) | October 2024 | 3B and 8B models with support up to 128k context length having a special interleaved sliding-window attention pattern for faster and memory-efficient inference. |
 | [Quantized Llama 3](https://ritvik19.medium.com/papers-explained-187e-quantized-llama-3-2-cc6965f61370) | October 2024 | Optimized versions of the Llama, using techniques like Quantization-Aware Training with LoRA Adapters and SpinQuant, to reduce model size and memory usage while maintaining accuracy and performance, enabling deployment on resource-constrained devices like mobile phones. |
+| [Nemotron-Mini-Hindi](https://ritvik19.medium.com/papers-explained-252-nemotron-mini-hindi-c7adc3b2f759) | October 2024 | A bilingual language model based on Nemotron-Mini 4B, specifically trained to improve Hindi and English performance using continuous pre-training on 400B real and synthetic tokens. |
 
 
 ## Multi Modal Language Models
