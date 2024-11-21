@@ -330,6 +330,7 @@ Explanations to key concepts in ML
 | [Matcha](https://ritvik19.medium.com/papers-explained-255-matcha-d5d5fe66b039) | December 2022 | Leverages Pix2Struct, and introduces pretraining tasks focused on math reasoning and chart derendering to improve chart and plot comprehension, enhancing understanding in diverse visual language tasks. |
 | [DePlot](https://ritvik19.medium.com/papers-explained-256-deplot-3e8a02eefc94) | December 2022 | Built upon MatCha, standardises plot to table task, translating plots into linearized tables (markdown) for processing by LLMs. |
 | [UDoP](https://ritvik19.medium.com/papers-explained-42-udop-719732358ab4) | December 2022 | Integrates text, image, and layout information through a Vision-Text-Layout Transformer, enabling unified representation. |
+| [Nougat](https://ritvik19.medium.com/papers-explained-257-nougat-bb304f7af0a3) | August 2023 | A Visual Transformer model that performs an Optical Character Recognition (OCR) task for processing scientific documents into a markup language. |
 | [LMDX](https://ritvik19.medium.com/papers-explained-248-lmdx-854c0bc771f0) | September 2023 |  A methodology to adapt arbitrary LLMs for document information extraction. |
 | [DocLLM](https://ritvik19.medium.com/papers-explained-87-docllm-93c188edfaef) | January 2024 | A lightweight extension to traditional LLMs that focuses on reasoning over visual documents, by incorporating textual semantics and spatial layout without expensive image encoders. |
 
