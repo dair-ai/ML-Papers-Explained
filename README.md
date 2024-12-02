@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/41d42cf7-bdec-4a9b-9d19-85f885fca366)# ML Papers Explained
+# ML Papers Explained
 
 Explanations to key concepts in ML
 
