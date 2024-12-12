@@ -420,6 +420,7 @@ Explanations to key concepts in ML
 | [CriticGPT](https://ritvik19.medium.com/papers-explained-224-criticgpt-6d9af57451fa) | June 2024 | A model based on GPT-4 trained with RLHF to catch errors in ChatGPT's code output, accepts a question-answer pair as input and outputs a structured critique that highlights potential problems in the answer.  |
 | [Gemma APS](https://ritvik19.medium.com/papers-explained-244-gemma-aps-8fac1838b9ef) | June 2024 | Proposes a scalable, yet accurate, proposition segmentation model by modeling Proposition segmentation as a supervised task by training LLMs on existing annotated datasets. |
 | [ShieldGemma](https://ritvik19.medium.com/papers-explained-243-shieldgemma-d779fd66ee3e) | July 2024 | A comprehensive suite of LLM-based safety content moderation models ranging from 2B to 27B parameters built upon Gemma2 that provide predictions of safety risks across key harm types (sexually explicit, dangerous content, harassment, hate speech) in both user input and LLM-generated output. |
+| [Spreadsheet LLM](https://ritvik19.medium.com/papers-explained-271-spreadsheet-llm-25b9d70f06e3) | July 2024 | An efficient encoding method that utilizes SheetCompressor, a framework comprising structural anchor based compression, inverse index translation, and data format aware aggregation, to effectively compress spreadsheets for LLMs, and Chain of Spreadsheet for spreadsheet understanding and spreadsheet QA task. |
 | [OmniParser](https://ritvik19.medium.com/papers-explained-259-omniparser-2e895f6f2c15) | August 2024 | A method for parsing user interface screenshots into structured elements, enhancing the ability of GPT-4V to generate actions grounded in the interface by accurately identifying interactable icons and understanding element semantics. |
 | [Reader-LM](https://ritvik19.medium.com/papers-explained-221-reader-lm-7382b9eb6ed9) | September 2024 | Small multilingual models specifically trained to generate clean markdown directly from noisy raw HTML, with a context length of up to 256K tokens. | 
 | [DataGemma](https://ritvik19.medium.com/papers-explained-212-datagemma-cf0d2f40d867) | September 2024 | A set of models that aims to reduce hallucinations in LLMs by grounding them in the factual data of Google's Data Commons, allowing users to ask questions in natural language and receive responses based on verified information from trusted sources. |
@@ -468,8 +469,3 @@ Reach out to [Ritvik](https://twitter.com/RitvikRastogi19) or [Elvis](https://tw
 If you are interested to contribute, feel free to open a PR.
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
-
-
-
-
-
