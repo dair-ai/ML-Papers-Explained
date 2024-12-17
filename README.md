@@ -408,6 +408,7 @@ Explanations to key concepts in ML
 | [Magpie](https://ritvik19.medium.com/papers-explained-183-magpie-0603cbdc69c3) | June 2024 | A self-synthesis method that extracts high-quality instruction data at scale by prompting an aligned LLM with left-side templates, generating 4M instructions and their corresponding responses. |
 | [Instruction Pre-Training](https://ritvik19.medium.com/papers-explained-184-instruction-pretraining-ee0466f0fd33) | June 2024 | A framework to augment massive raw corpora with instruction-response pairs enabling supervised multitask pretraining of LMs. |
 | [Direct Judgement Preference Optimization](https://ritvik19.medium.com/papers-explained-228-direct-judgement-preference-optimization-6915425402bf) | September 2024 | Proposes learning through preference optimization to enhance the evaluation capabilities of LLM judges which are trained on three approaches: Chain-of-Thought Critique, Standard Judgement, and Response Deduction across various use cases, including single rating, pairwise comparison, and classification. |
+| [LongCite](https://ritvik19.medium.com/papers-explained-273-longcite-4800340e51d7) | October 2024 | A system comprising LongBench-Cite benchmark, CoF pipeline for generating cited QA instances, LongCite-45k dataset, and LongCite-8B/9B models trained on this dataset to improve the trustworthiness of long-context LLMs by enabling them to generate responses with fine-grained sentence-level citations. |
 
 ## Miscellaneous
 
