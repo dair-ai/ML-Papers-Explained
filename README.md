@@ -438,6 +438,17 @@ Explanations to key concepts in ML
 | [DataGemma](https://ritvik19.medium.com/papers-explained-212-datagemma-cf0d2f40d867) | September 2024 | A set of models that aims to reduce hallucinations in LLMs by grounding them in the factual data of Google's Data Commons, allowing users to ask questions in natural language and receive responses based on verified information from trusted sources. |
 | [GSM-Symbolic](https://ritvik19.medium.com/papers-explained-260-gsm-symbolic-759d379052c7) | October 2024 | Investigates the true mathematical reasoning capabilities of LLMs by introducing GSM-Symbolic, a new benchmark based on symbolic templates, revealing that LLMs exhibit inconsistent performance, struggle with complex questions, and appear to rely on pattern recognition rather than genuine logical reasoning. |
 
+## Neural Network Layers
+
+### Convolution Layers
+
+| Layer |
+|---|
+| [Convolution Layer](https://ritvik19.medium.com/papers-explained-review-07-convolution-layers-c083e7410cd3#4176) |
+| [Separable Convolution](https://ritvik19.medium.com/papers-explained-review-07-convolution-layers-c083e7410cd3#539f) |
+| [Pointwise Convolution](https://ritvik19.medium.com/papers-explained-review-07-convolution-layers-c083e7410cd3#8f24) |
+| [Depthwise Convolution](https://ritvik19.medium.com/papers-explained-review-07-convolution-layers-c083e7410cd3#20e4) |
+| [Convolution Transpose](https://ritvik19.medium.com/papers-explained-review-07-convolution-layers-c083e7410cd3#a302) |
 
 ---
 
@@ -448,6 +459,7 @@ Explanations to key concepts in ML
 - [Tabular Deep Learning](https://medium.com/dair-ai/papers-explained-review-04-tabular-deep-learning-776db04f965b)
 - [Generative Adversarial Networks](https://ritvik19.medium.com/papers-explained-review-05-generative-adversarial-networks-bbb51b160d5e)
 - [Parameter Efficient Fine Tuning](https://ritvik19.medium.com/papers-explained-review-06-parameter-efficient-finetuning-6934fafa74e5)
+- [Convolution Layers](https://ritvik19.medium.com/papers-explained-review-07-convolution-layers-c083e7410cd3)
 
 ## Reading Lists
 - [Language Models](https://ritvik19.medium.com/list/language-models-11b008ddc292)
