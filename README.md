@@ -450,6 +450,14 @@ Explanations to key concepts in ML
 | [Depthwise Convolution](https://ritvik19.medium.com/papers-explained-review-07-convolution-layers-c083e7410cd3#20e4) |
 | [Convolution Transpose](https://ritvik19.medium.com/papers-explained-review-07-convolution-layers-c083e7410cd3#a302) |
 
+### Recurrent Layers
+
+| Layer |
+|---|
+| [Simple Recurrent](https://ritvik19.medium.com/papers-explained-review-08-recurrent-layers-ff2f224af059#e405) |
+| [LSTM](https://ritvik19.medium.com/papers-explained-review-08-recurrent-layers-ff2f224af059#0947) |
+| [GRU](https://ritvik19.medium.com/papers-explained-review-08-recurrent-layers-ff2f224af059#4571) |
+
 ---
 
 ## Literature Reviewed
@@ -460,6 +468,7 @@ Explanations to key concepts in ML
 - [Generative Adversarial Networks](https://ritvik19.medium.com/papers-explained-review-05-generative-adversarial-networks-bbb51b160d5e)
 - [Parameter Efficient Fine Tuning](https://ritvik19.medium.com/papers-explained-review-06-parameter-efficient-finetuning-6934fafa74e5)
 - [Convolution Layers](https://ritvik19.medium.com/papers-explained-review-07-convolution-layers-c083e7410cd3)
+- [Recurrent Layers](https://ritvik19.medium.com/papers-explained-review-08-recurrent-layers-ff2f224af059)
 
 ## Reading Lists
 - [Language Models](https://ritvik19.medium.com/list/language-models-11b008ddc292)
