@@ -458,6 +458,18 @@ Explanations to key concepts in ML
 | [LSTM](https://ritvik19.medium.com/papers-explained-review-08-recurrent-layers-ff2f224af059#0947) |
 | [GRU](https://ritvik19.medium.com/papers-explained-review-08-recurrent-layers-ff2f224af059#4571) |
 
+### Attention Layers
+
+| Layer |
+|---|
+| [Scaled Dot Product Attention](https://ritvik19.medium.com/papers-explained-review-09-attention-layers-beeef323e7f5#c18c) |
+| [Multi Head Attention](https://ritvik19.medium.com/papers-explained-review-09-attention-layers-beeef323e7f5#be63) |
+| [Cross Attention](https://ritvik19.medium.com/papers-explained-review-09-attention-layers-beeef323e7f5#0f28) |
+| [Causal Attention](https://ritvik19.medium.com/papers-explained-review-09-attention-layers-beeef323e7f5#14c7) |
+| [Sliding Window Attention](https://ritvik19.medium.com/papers-explained-review-09-attention-layers-beeef323e7f5#324c) |
+| [Multi Query Attention](https://ritvik19.medium.com/papers-explained-review-09-attention-layers-beeef323e7f5#0bfd) |
+| [Grouped Query Attention](https://ritvik19.medium.com/papers-explained-review-09-attention-layers-beeef323e7f5#d5fb) |
+
 ---
 
 ## Literature Reviewed
@@ -469,6 +481,7 @@ Explanations to key concepts in ML
 - [Parameter Efficient Fine Tuning](https://ritvik19.medium.com/papers-explained-review-06-parameter-efficient-finetuning-6934fafa74e5)
 - [Convolution Layers](https://ritvik19.medium.com/papers-explained-review-07-convolution-layers-c083e7410cd3)
 - [Recurrent Layers](https://ritvik19.medium.com/papers-explained-review-08-recurrent-layers-ff2f224af059)
+- [Attention Layers](https://ritvik19.medium.com/papers-explained-review-09-attention-layers-beeef323e7f5)
 
 ## Reading Lists
 - [Language Models](https://ritvik19.medium.com/list/language-models-11b008ddc292)
