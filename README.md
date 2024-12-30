@@ -471,6 +471,17 @@ Explanations to key concepts in ML
 | [Multi Query Attention](https://ritvik19.medium.com/papers-explained-review-09-attention-layers-beeef323e7f5#0bfd) |
 | [Grouped Query Attention](https://ritvik19.medium.com/papers-explained-review-09-attention-layers-beeef323e7f5#d5fb) |
 
+### Normalisation Layers
+
+| Layer | 
+|---|
+| [Batch Normalisation](https://ritvik19.medium.com/papers-explained-review-10-normalization-layers-56b556c9646e#00ea) |
+| [Layer Normalisation](https://ritvik19.medium.com/papers-explained-review-10-normalization-layers-56b556c9646e#9439) |
+| [Instance Normalisation](https://ritvik19.medium.com/papers-explained-review-10-normalization-layers-56b556c9646e#7783) |
+| [Group Normalisation](https://ritvik19.medium.com/papers-explained-review-10-normalization-layers-56b556c9646e#cd7f) |
+| [Weight Standardisation](https://ritvik19.medium.com/papers-explained-review-10-normalization-layers-56b556c9646e#3944) |
+| [Batch Channel Normalisation](https://ritvik19.medium.com/papers-explained-review-10-normalization-layers-56b556c9646e#3944) |
+
 ---
 
 ## Literature Reviewed
@@ -483,6 +494,7 @@ Explanations to key concepts in ML
 - [Convolution Layers](https://ritvik19.medium.com/papers-explained-review-07-convolution-layers-c083e7410cd3)
 - [Recurrent Layers](https://ritvik19.medium.com/papers-explained-review-08-recurrent-layers-ff2f224af059)
 - [Attention Layers](https://ritvik19.medium.com/papers-explained-review-09-attention-layers-beeef323e7f5)
+- [Normalisation Layers](https://ritvik19.medium.com/papers-explained-review-10-normalization-layers-56b556c9646e)
 
 ## Reading Lists
 - [Language Models](https://ritvik19.medium.com/list/language-models-11b008ddc292)
