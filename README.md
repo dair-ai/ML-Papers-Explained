@@ -439,6 +439,20 @@ Explanations to key concepts in ML
 | [DataGemma](https://ritvik19.medium.com/papers-explained-212-datagemma-cf0d2f40d867) | September 2024 | A set of models that aims to reduce hallucinations in LLMs by grounding them in the factual data of Google's Data Commons, allowing users to ask questions in natural language and receive responses based on verified information from trusted sources. |
 | [GSM-Symbolic](https://ritvik19.medium.com/papers-explained-260-gsm-symbolic-759d379052c7) | October 2024 | Investigates the true mathematical reasoning capabilities of LLMs by introducing GSM-Symbolic, a new benchmark based on symbolic templates, revealing that LLMs exhibit inconsistent performance, struggle with complex questions, and appear to rely on pattern recognition rather than genuine logical reasoning. |
 
+## Auto Encoders
+
+| Model |
+|---|
+| [Auto Encoders](https://ritvik19.medium.com/papers-explained-review-11-auto-encoders-3b8f08b4eac0#b8a0) |
+| [Sparse Auto Encoders](https://ritvik19.medium.com/papers-explained-review-11-auto-encoders-3b8f08b4eac0#f605) |
+| [K Sparse Auto Encoders](https://ritvik19.medium.com/papers-explained-review-11-auto-encoders-3b8f08b4eac0#23b0) |
+| [Contractive Auto Encoders](https://ritvik19.medium.com/papers-explained-review-11-auto-encoders-3b8f08b4eac0#23b3) |
+| [Convolutional Auto Encoders](https://ritvik19.medium.com/papers-explained-review-11-auto-encoders-3b8f08b4eac0#59a1) |
+| [Sequence to Sequence Auto Encoders](https://ritvik19.medium.com/papers-explained-review-11-auto-encoders-3b8f08b4eac0#73e0) |
+| [Denoising Auto Encoders](https://ritvik19.medium.com/papers-explained-review-11-auto-encoders-3b8f08b4eac0#1829) |
+| [Variational Auto Encoders](https://ritvik19.medium.com/papers-explained-review-11-auto-encoders-3b8f08b4eac0#a626) |
+| [Masked Auto Encoders](https://ritvik19.medium.com/papers-explained-review-11-auto-encoders-3b8f08b4eac0#2247) |
+
 ## Neural Network Layers
 
 ### Convolution Layers
@@ -495,6 +509,7 @@ Explanations to key concepts in ML
 - [Recurrent Layers](https://ritvik19.medium.com/papers-explained-review-08-recurrent-layers-ff2f224af059)
 - [Attention Layers](https://ritvik19.medium.com/papers-explained-review-09-attention-layers-beeef323e7f5)
 - [Normalisation Layers](https://ritvik19.medium.com/papers-explained-review-10-normalization-layers-56b556c9646e)
+- [Auto Encoders](https://ritvik19.medium.com/papers-explained-review-11-auto-encoders-3b8f08b4eac0)
 
 ## Reading Lists
 - [Language Models](https://ritvik19.medium.com/list/language-models-11b008ddc292)
