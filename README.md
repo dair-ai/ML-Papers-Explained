@@ -536,6 +536,7 @@ Explanations to key concepts in ML
 - [Attention Layers](https://ritvik19.medium.com/papers-explained-review-09-attention-layers-beeef323e7f5)
 - [Normalisation Layers](https://ritvik19.medium.com/papers-explained-review-10-normalization-layers-56b556c9646e)
 - [Auto Encoders](https://ritvik19.medium.com/papers-explained-review-11-auto-encoders-3b8f08b4eac0)
+- [LLMs for Maths](https://ritvik19.medium.com/papers-explained-review-12-llms-for-maths-1597e3c7251c)
 
 ## Reading Lists
 - [Language Models](https://ritvik19.medium.com/list/language-models-11b008ddc292)
