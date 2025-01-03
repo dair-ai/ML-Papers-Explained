@@ -465,6 +465,7 @@ Explanations to key concepts in ML
 | [Reader-LM](https://ritvik19.medium.com/papers-explained-221-reader-lm-7382b9eb6ed9) | September 2024 | Small multilingual models specifically trained to generate clean markdown directly from noisy raw HTML, with a context length of up to 256K tokens. | 
 | [DataGemma](https://ritvik19.medium.com/papers-explained-212-datagemma-cf0d2f40d867) | September 2024 | A set of models that aims to reduce hallucinations in LLMs by grounding them in the factual data of Google's Data Commons, allowing users to ask questions in natural language and receive responses based on verified information from trusted sources. |
 | [GSM-Symbolic](https://ritvik19.medium.com/papers-explained-260-gsm-symbolic-759d379052c7) | October 2024 | Investigates the true mathematical reasoning capabilities of LLMs by introducing GSM-Symbolic, a new benchmark based on symbolic templates, revealing that LLMs exhibit inconsistent performance, struggle with complex questions, and appear to rely on pattern recognition rather than genuine logical reasoning. |
+| [LearnLM](https://ritvik19.medium.com/papers-explained-280-learnlm-df8cdc2fed45) | December 2024 | Combines Supervised Fine-Tuning (SFT) with Reinforcement Learning from Human Feedback (RLHF) to enhance pedagogical instruction in conversational AI, co-trained with Gemini's SFT, Reward Model (RM), and RL stages. |
 
 ## Auto Encoders
 
