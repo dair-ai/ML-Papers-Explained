@@ -77,6 +77,7 @@ Explanations to key concepts in ML
 | [Falcon](https://ritvik19.medium.com/papers-explained-59-falcon-26831087247f) | June 2023 | An Open Source LLM trained on properly filtered and deduplicated web data alone. |
 | [Phi-1](https://ritvik19.medium.com/papers-explained-114-phi-1-14a8dcc77ce5) | June 2023 | An LLM for code, trained using a textbook quality data from the web and synthetically generated textbooks and exercises with GPT-3.5. |
 | [WizardCoder](https://ritvik19.medium.com/papers-explained-wizardcoder-a12ecb5b93b6) | June 2023 | Enhances the performance of the open-source Code LLM, StarCoder, through the application of Code Evol-Instruct. |
+| [Tulu](https://ritvik19.medium.com/papers-explained-181-tulu-ee85648cbf1b) | June 2023 | Explores instruction-tuning of language models ranging from 6.7B to 65B parameters on 12 different instruction datasets. |
 | [LLaMA 2](https://ritvik19.medium.com/papers-explained-60-llama-v2-3e415c5b9b17) | July 2023 | Successor of LLaMA. LLaMA 2-Chat is optimized for dialogue use cases. |
 | [Tool LLM](https://ritvik19.medium.com/papers-explained-141-tool-llm-856f99e79f55) | July 2023 | A LLaMA model finetuned on an instruction-tuning dataset for tool use, automatically created using ChatGPT. |
 | [Humpback](https://ritvik19.medium.com/papers-explained-61-humpback-46992374fc34) | August 2023 | LLaMA finetuned using Instrustion backtranslation. |
