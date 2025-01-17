@@ -154,6 +154,7 @@ Explanations to key concepts in ML
 | [Phi-4](https://ritvik19.medium.com/papers-explained-278-phi-4-ea59220f3f88) | December 2024 | A 14B language model prioritizing data quality through a training process incorporating synthetic data for pretraining and midtraining, curated organic data seeds, and innovative post-training techniques like pivotal token search for DPO, resulting in strong performance on reasoning-focused benchmarks, especially in STEM, comparable to much larger models, while also addressing overfitting and data contamination concerns. |
 | [ModernBERT](https://ritvik19.medium.com/papers-explained-277-modernbert-59f25989f685) | December 2024 | Modernized encoder-only transformer model trained on 2 trillion tokens with a native 8192 sequence length, incorporating architectural improvements like GeGLU activations, RoPE embeddings, alternating attention, and unpadding, resulting in state-of-the-art performance across diverse classification and retrieval tasks (including code) and superior inference speed and memory efficiency compared to existing encoder models. |
 | [OLMo 2](https://ritvik19.medium.com/papers-explained-olmo-2-f4d34e886503) | January 2025 | A family of open-source language models featuring improved architecture, training recipes, and pre-training data mixtures. It incorporates a new specialized data mix (Dolmino Mix 1124) introduced via late-stage curriculum training, and best practices from Tülu 3 are incorporated to develop OLMo 2-Instruct. |
+
 ## LLMs For Math
 
 | Paper | Date | Description |
@@ -257,8 +258,6 @@ Explanations to key concepts in ML
 | [E5-V](https://ritvik19.medium.com/papers-explained-172-e5-v-9947d3925802) | July 2024 | A framework that adapts Multimodal Large Language Models for achieving universal multimodal embeddings by leveraging prompts and single modality training on text pairs, which demonstrates strong performance in multimodal embeddings without fine-tuning and eliminates the need for costly multimodal training data collection. |
 | [Matryoshka Adaptor](https://ritvik19.medium.com/papers-explained-204-matryoshka-adaptor-c22f76488959) | July 2024 | A framework designed for the customization of LLM embeddings, facilitating substantial dimensionality reduction while maintaining comparable performance levels.  |
 | [Jina Embeddings v3](https://ritvik19.medium.com/papers-explained-266-jina-embeddings-v3-9c38c9f69766) | September 2024 | A text embedding model with 570 million parameters that supports long-context retrieval tasks up to 8192 tokens, includes LoRA adapters for various NLP tasks, and allows flexible output dimension reduction from 1024 down to 32 using Matryoshka Representation Learning. |
-
-
 
 ## Parameter Efficient Fine Tuning
 
@@ -433,6 +432,7 @@ Explanations to key concepts in ML
 | [Smol Talk](https://ritvik19.medium.com/papers-explained-176-smol-lm-a166d5f1facc#b5e3) | November 2024 | A synthetic instruction-following dataset comprising 1 million samples, built using a fine-tuned LLM on a diverse range of instruction-following datasets and then generating synthetic conversations using various prompts and instructions to improve instruction following, chat, and reasoning capabilities. |
 
 ## LLM Training
+
 | Paper | Date | Description |
 |---|---|---|
 | [Self-Taught Reasoner (STaR)](https://ritvik19.medium.com/papers-explained-288-star-cf485a5b117e) | May 2022 |  A bootstrapping method that iteratively improves a language model's reasoning abilities by generating rationales for a dataset, filtering for rationales that lead to correct answers, fine-tuning the model on these successful rationales, and repeating this process, optionally augmented by "rationalization" where the model generates rationales given the correct answer as a hint. |
@@ -447,6 +447,7 @@ Explanations to key concepts in ML
 | [LongCite](https://ritvik19.medium.com/papers-explained-273-longcite-4800340e51d7) | October 2024 | A system comprising LongBench-Cite benchmark, CoF pipeline for generating cited QA instances, LongCite-45k dataset, and LongCite-8B/9B models trained on this dataset to improve the trustworthiness of long-context LLMs by enabling them to generate responses with fine-grained sentence-level citations. |
 | [Thought Preference Optimization](https://ritvik19.medium.com/papers-explained-274-thought-preference-optimization-4f365380ae74) | October 2024 | Iteratively trains LLMs to generate useful "thoughts" that improve response quality by prompting the model to produce thought-response pairs, scoring the responses with a judge model, creating preference pairs from the highest and lowest-scoring responses and their associated thoughts, and then using these pairs with DPO or IRPO loss to optimize the thought generation process while mitigating judge model length bias through score normalization. |
 | [Self-Consistency Preference Optimization](https://ritvik19.medium.com/papers-explained-275-self-consistency-preference-optimization-ccd08f5acafb) | November 2024 | An unsupervised iterative training method for LLMs that leverages the concept of self-consistency to create preference pairs by selecting the most consistent response as the chosen response and the least consistent one as the rejected response, and then optimizes a weighted loss function that prioritizes pairs with larger vote margins, reflecting the model's confidence in the preference. |
+| [rStar-Math](https://ritvik19.medium.com/papers-explained-290-rstar-math-4b3317a2c2c6) | January 2025 | Uses a deep thinking approach with Monte Carlo Tree Search and smaller language models to achieve state-of-the-art math reasoning, rivaling or surpassing larger models like OpenAI's. It employs a novel code-augmented CoT data synthesis, a process preference model (PPM) trained with pairwise ranking, and a self-evolution recipe to iteratively improve SLM performance on complex math problems, including Olympiad-level questions. |
 
 ## Miscellaneous
 
