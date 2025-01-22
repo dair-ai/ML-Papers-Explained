@@ -453,6 +453,7 @@ Explanations to key concepts in ML
 
 | Paper | Date | Description |
 |---|---|---|
+| [TLDR](https://ritvik19.medium.com/papers-explained-293-tldr-a31d787cd365) | April 2020 | Extreme summarization for scientific papers, creating concise, single-sentence summaries of key contributions. |
 | [ColD Fusion](https://ritvik19.medium.com/papers-explained-32-cold-fusion-452f33101a91) | December 2022 | A method enabling the benefits of multitask learning through distributed computation without data sharing and improving model performance. |
 | [Are Emergent Abilities of Large Language Models a Mirage?](https://ritvik19.medium.com/papers-explained-are-emergent-abilities-of-large-language-models-a-mirage-4160cf0e44cb) | April 2023 | This paper presents an alternative explanation for emergent abilities, i.e. emergent abilities are created by the researcher’s choice of metrics, not fundamental changes in model family behaviour on specific tasks with scale. |
 | [Scaling Data-Constrained Language Models](https://ritvik19.medium.com/papers-explained-85-scaling-data-constrained-language-models-2a4c18bcc7d3) | May 2023 | This study investigates scaling language models in data-constrained regimes. |
