@@ -182,6 +182,7 @@ Explanations to key concepts in ML
 | [Open Math Instruct 2](https://ritvik19.medium.com/papers-explained-review-12-llms-for-maths-1597e3c7251c#ff3a) | October 2024 | A math instruction tuning dataset containing 14M question-solution pairs (≈ 600K unique questions) augmented from GSM8K and MATH dataset, generated using Llama 3.2 405B. |
 | [Math Coder 2](https://ritvik19.medium.com/papers-explained-review-12-llms-for-maths-1597e3c7251c#97c9) | October 2024 | Creates Math Code Pile by filtering web data and then extracting and translating mathematical data from it to create a corpus of interleaved reasoning and code data. |
 | [AceMath](https://ritvik19.medium.com/papers-explained-review-12-llms-for-maths-1597e3c7251c#65b1) | December 2024 | A suite of math instruction-following models, trained through a two-stage SFT process focusing on general and math-specific reasoning, utilizing high-quality synthetic data and a specialized reward model (AceMath-RM) trained with diverse responses. |
+| [AceCoder](https://ritvik19.medium.com/papers-explained-acecoder-2611b3feef6c) | February 2025 | Leverages automated large-scale test-case synthesis to enhance code model training via reinforcement learning. It creates a dataset (AceCode-89K) of questions and test cases, trains reward models (AceCode-RM) using pass rates, and then uses these reward models and test-case pass rewards for reinforcement learning, significantly improving code generation performance across various benchmarks. |
 
 ## Multi Modal Language Models
 
