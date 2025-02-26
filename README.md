@@ -322,6 +322,7 @@ Explanations to key concepts in ML
 | [FastViT](https://ritvik19.medium.com/papers-explained-225-fastvit-f1568536ed34) | March 2023 | A hybrid vision transformer architecture featuring a novel token mixing operator called RepMixer, which significantly improves model efficiency. |
 | [Efficient Vit](https://ritvik19.medium.com/papers-explained-229-efficient-vit-cc87fbefbe49) | May 2023 | Employs a single memory-bound MHSA between efficient FFN layers, improves memory efficiency while enhancing channel communication. |
 | [SoViT](https://ritvik19.medium.com/papers-explained-234-sovit-a0ce3c7ef480) | May 2023 | A shape-optimized vision transformer that achieves competitive results with models twice its size, while being pre-trained with an equivalent amount of compute. |
+| [Autoregressive Image Models (AIM)](https://ritvik19.medium.com/papers-explained-318-autoregressive-image-models-aim-d6a90f93876f) | January 2024 | 8B Vision models pre-trained using an autoregressive objective, similar to Large Language Models, on 2B images, demonstrating scaling properties utilizing architectural modifications like prefix attention and a parameterized prediction head. |
 
 
 ## Convolutional Neural Networks
