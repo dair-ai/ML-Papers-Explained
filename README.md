@@ -323,7 +323,7 @@ Explanations to key concepts in ML
 | [Efficient Vit](https://ritvik19.medium.com/papers-explained-229-efficient-vit-cc87fbefbe49) | May 2023 | Employs a single memory-bound MHSA between efficient FFN layers, improves memory efficiency while enhancing channel communication. |
 | [SoViT](https://ritvik19.medium.com/papers-explained-234-sovit-a0ce3c7ef480) | May 2023 | A shape-optimized vision transformer that achieves competitive results with models twice its size, while being pre-trained with an equivalent amount of compute. |
 | [Autoregressive Image Models (AIM)](https://ritvik19.medium.com/papers-explained-318-autoregressive-image-models-aim-d6a90f93876f) | January 2024 | 8B Vision models pre-trained using an autoregressive objective, similar to Large Language Models, on 2B images, demonstrating scaling properties utilizing architectural modifications like prefix attention and a parameterized prediction head. |
-
+| [Autoregressive Image Models V2 (AIM V2)](https://ritvik19.medium.com/papers-explained-319-autoregressive-image-models-v2-aim-v2-e28eadf5ba9b) | November 2024 | A family of open vision encoders, ranging from 300M to 3B parameters, extending the AIM framework to images and text, pre-trained with a multimodal autoregressive approach, generating both image patches and text tokens using a causal decoder. |
 
 ## Convolutional Neural Networks
 
