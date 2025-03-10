@@ -518,6 +518,7 @@ Explanations to key concepts in ML
 | [Reader LM v2](https://ritvik19.medium.com/papers-explained-295-readerlm-v2-7103e9b25a10) | January 2025 | A 1.5B parameter language model specializing in converting raw HTML to markdown or JSON, handling up to 512K tokens and supporting 29 languages. Trained with a new paradigm and higher-quality data, it treats HTML-to-markdown as translation, and addresses the degeneration issues of its predecessor through contrastive loss. |
 | [OmniParser V2](https://ritvik19.medium.com/papers-explained-259-omniparser-2e895f6f2c15#6ac5) | February 2025 | Improves upon OmniParser with higher accuracy on smaller elements, faster inference, achieved through training with larger datasets and a smaller icon caption model. |
 | [Competitive Programming with Large Reasoning Models](https://ritvik19.medium.com/papers-explained-317-competitive-programming-with-large-reasoning-models-51836dbf584e) | February 2025 | Explores how reinforcement learning significantly improves large language model performance on competitive programming and software engineering tasks, comparing OpenAI models o1, o1-ioi, and o3. |
+| [olmOCR](https://ritvik19.medium.com/papers-explained-326-olmocr-bc9158752901) | February 2025 | An open-source Python toolkit that converts PDFs into linearized plain text while preserving structured content (sections, tables, lists, equations, etc.). It uses a document-anchoring approach, leveraging a fine-tuned 7B VLM. |
 
 ## Auto Encoders
 
