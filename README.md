@@ -384,6 +384,12 @@ Explanations to key concepts in ML
 | [Mask RCNN](https://ritvik19.medium.com/papers-explained-17-mask-rcnn-82c64bea5261) | March 2017 | Extends Faster R-CNN to solve instance segmentation tasks, by adding a branch for predicting an object mask in parallel with the existing branch. |
 | [Cascade RCNN](https://ritvik19.medium.com/papers-explained-77-cascade-rcnn-720b161d86e4) | December 2017 | Proposes a multi-stage approach where detectors are trained with progressively higher IoU thresholds, improving selectivity against false positives. |
 
+## Image Generation
+| Paper | Date | Description |
+|---|---|---|
+| [U-Net](https://ritvik19.medium.com/papers-explained-341-u-net-18be21566d2) | May 2015 | An architecture designed for image segmentation, consisting of a contracting path for context capture and an expanding path for precise localization. |
+| [U-ViT](https://ritvik19.medium.com/papers-explained-342-u-vit-54c907b849c8) | September 2022 | A ViT-based architecture for image generation with diffusion models, characterized by treating all inputs including the time, condition and noisy image patches as tokens. |
+
 ## Document AI
 
 | Paper | Date | Description |
