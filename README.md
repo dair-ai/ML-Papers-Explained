@@ -195,6 +195,7 @@ Explanations to key concepts in ML
 | [Math Coder 2](https://ritvik19.medium.com/papers-explained-review-12-llms-for-maths-1597e3c7251c#97c9) | October 2024 | Creates Math Code Pile by filtering web data and then extracting and translating mathematical data from it to create a corpus of interleaved reasoning and code data. |
 | [AceMath](https://ritvik19.medium.com/papers-explained-review-12-llms-for-maths-1597e3c7251c#65b1) | December 2024 | A suite of math instruction-following models, trained through a two-stage SFT process focusing on general and math-specific reasoning, utilizing high-quality synthetic data and a specialized reward model (AceMath-RM) trained with diverse responses. |
 | [LIMO](https://ritvik19.medium.com/papers-explained-328-limo-261765a5616c) | February 2025 | Challenges the notion that complex reasoning requires massive datasets by achieving state-of-the-art performance on mathematical reasoning benchmarks using only 817 curated training examples and emphasizing high-quality reasoning chains. |
+| [MathFusion](https://ritvik19.medium.com/papers-explained-351-mathfusion-f612d91667c4) | March 2025 | MathFusion is a novel framework that improves mathematical reasoning in LLMs by synthesizing new problems from existing ones using three fusion strategies: sequential, parallel, and conditional, to capture relational structures in mathematical knowledge. |
 
 ## Multi Modal Language Models
 
