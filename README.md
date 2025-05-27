@@ -176,6 +176,7 @@ Explanations to key concepts in ML
 | [Mistral Medium 3](https://ritvik19.medium.com/papers-explained-mistral-7b-b9632dedf580#0ea6) | May 2025 | A cost-effective, high-performing language model designed for enterprise use, offering SOTA performance comparable to Claude Sonnet 3.7 at 8x lower cost, excelling in professional tasks like coding and STEM. |
 | [Gemma 3n](https://ritvik19.medium.com/papers-explained-329-gemma-3-153803a2c591#f2b2) | May 2025 | Model optimized for on-device use, featuring innovations like PLE caching and MatFormer architecture for efficient performance. |
 | [Devstral](https://ritvik19.medium.com/papers-explained-mistral-7b-b9632dedf580#d26b) | May 2025 | An agentic LLM for software engineering tasks developed through a collaboration between Mistral AI and All Hands AI. It is finetuned from Mistral-Small-3.1. |
+| [Sarvam - M](https://ritvik19.medium.com/papers-explained-374-sarvam-m-594e1bfb6b6c) | May 2025 | A large language model built on top of Mistral Small, enhanced through supervised finetuning (SFT), reinforcement learning with verifiable rewards (RLVR), and inference optimization, with a focus on Indian languages and reasoning tasks like math and programming. |
 
 ## LLMs For Math
 
