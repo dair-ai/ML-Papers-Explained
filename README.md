@@ -275,6 +275,7 @@ Explanations to key concepts in ML
 | [Mistral Small 3.1](https://ritvik19.medium.com/papers-explained-mistral-7b-b9632dedf580#1065) | March 2025 | A multimodal language model built upon Mistral Small 3 with improved text performance and an expanded context window of up to 128k tokens. |
 | [Gemini 2.5 Flash](https://ritvik19.medium.com/papers-explained-367-gemini-models-97b6b71e0054#b40c) | April 2025 | A hybrid reasoning model that allows developers to control a 'thinking' process for improved accuracy on complex tasks, offering a customizable thinking budget to balance quality, cost, and speed. |
 | [Claude 4](https://ritvik19.medium.com/papers-explained-181-claude-89dd45e35d92#90f2) | May 2025 | Hybrid models offering two modes: near-instant responses and extended thinking for deeper reasoning, setting new standards for coding, advanced reasoning, and AI agents. |
+| [Eagle 2.5](https://ritvik19.medium.com/papers-explained-379-eagle-2-5-73ffe73dc009) | April 2025 | A family of vision-language models designed for long-context multimodal learning, addressing challenges in long video comprehension and high-resolution image understanding through a generalist framework. It incorporates Automatic Degrade Sampling, Image Area Preservation, efficiency optimizations, and the Eagle-Video-110K dataset, achieving substantial improvements on long-context multimodal benchmarks. |
 
 
 ## Retrieval and Representation Learning
