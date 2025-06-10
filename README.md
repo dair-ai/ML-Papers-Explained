@@ -277,6 +277,7 @@ Explanations to key concepts in ML
 | [Gemini 2.5 Flash](https://ritvik19.medium.com/papers-explained-367-gemini-models-97b6b71e0054#b40c) | April 2025 | A hybrid reasoning model that allows developers to control a 'thinking' process for improved accuracy on complex tasks, offering a customizable thinking budget to balance quality, cost, and speed. |
 | [Claude 4](https://ritvik19.medium.com/papers-explained-181-claude-89dd45e35d92#90f2) | May 2025 | Hybrid models offering two modes: near-instant responses and extended thinking for deeper reasoning, setting new standards for coding, advanced reasoning, and AI agents. |
 | [Eagle 2.5](https://ritvik19.medium.com/papers-explained-379-eagle-2-5-73ffe73dc009) | April 2025 | A family of vision-language models designed for long-context multimodal learning, addressing challenges in long video comprehension and high-resolution image understanding through a generalist framework. It incorporates Automatic Degrade Sampling, Image Area Preservation, efficiency optimizations, and the Eagle-Video-110K dataset, achieving substantial improvements on long-context multimodal benchmarks. |
+| [PerceptionLM](https://ritvik19.medium.com/papers-explained-384-perceptionlm-15787f8950f6) | April 2025 | An open and reproducible framework for image and video understanding research, addressing the limitations of closed-source VLMs and the issues with distillation from proprietary models. |
 
 
 ## Retrieval and Representation Learning
