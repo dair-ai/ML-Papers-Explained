@@ -177,6 +177,7 @@ Explanations to key concepts in ML
 | [Gemma 3n](https://ritvik19.medium.com/papers-explained-329-gemma-3-153803a2c591#f2b2) | May 2025 | Model optimized for on-device use, featuring innovations like PLE caching and MatFormer architecture for efficient performance. |
 | [Devstral](https://ritvik19.medium.com/papers-explained-mistral-7b-b9632dedf580#d26b) | May 2025 | An agentic LLM for software engineering tasks developed through a collaboration between Mistral AI and All Hands AI. It is finetuned from Mistral-Small-3.1. |
 | [Sarvam - M](https://ritvik19.medium.com/papers-explained-374-sarvam-m-594e1bfb6b6c) | May 2025 | A large language model built on top of Mistral Small, enhanced through supervised finetuning (SFT), reinforcement learning with verifiable rewards (RLVR), and inference optimization, with a focus on Indian languages and reasoning tasks like math and programming. |
+| [Sarvam - Translate](https://ritvik19.medium.com/papers-explained-387-sarvam-translate-fb96bd865054) | June 2025 | A translation model trained by fine-tuning Gemma3–4B-IT. It supports 22 Indian languages - Hindi, Bengali, Marathi, Telugu, Tamil, Gujarati, Urdu, Kannada, Odia, Malayalam, Punjabi, Assamese, Maithili, Santali, Kashmiri, Nepali, Sindhi, Dogri, Konkani, Manipuri (Meitei), Bodo, Sanskrit. |
 
 ## LLMs For Math
 
