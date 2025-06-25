@@ -216,6 +216,7 @@ Explanations to key concepts in ML
 | [Fathom R1](https://ritvik19.medium.com/papers-explainedv377-fathom-r1-ba93dd040cbf) | May 2025 | A 14B parameter reasoning language model, derived from Deepseek-R1-Distilled-Qwen-14B, trained using supervised fine-tuning (SFT) on curated datasets and model merging, and the models, post-training recipes, and datasets are open-sourced. |
 | [AceReason-Nemotron](https://ritvik19.medium.com/papers-explained-381-acereason-nemotron-0b3bd6495890) | May 2025 | Demonstrates that large-scale reinforcement learning can significantly enhance the reasoning capabilities of strong small- and mid-sized models by first training on math-only prompts, then on code-only prompts. |
 | [Magistral](https://ritvik19.medium.com/papers-explained-388-magistral-d79523e0df6b) | June 2025 | Mistral AI's first reasoning model, available in both open-source (Magistral Small, 24B parameters) and enterprise (Magistral Medium) versions, designed for domain-specific, transparent, and multilingual reasoning across various applications like business strategy, regulated industries, and software engineering. |
+| [AceReason-Nemotron 1.1](https://ritvik19.medium.com/papers-explained-395-acereason-nemotron-1-1-f2747af699a5) | June 2025 | Leverages the synergy between SFT and RL through scaling SFT training data, carefully selecting the sampling temperature during RL training to balance exploration and exploitation, and employing a stage-wise RL approach on math-only and code-only prompts. |
 
 ## Multi Modal Language Models
 
